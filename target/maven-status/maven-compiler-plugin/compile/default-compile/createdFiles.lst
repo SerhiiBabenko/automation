@@ -1,0 +1,8 @@
+ua/com/stolkacha/pageElements/header/Logo.class
+ua/com/stolkacha/pageElements/header/Phones.class
+ua/com/stolkacha/pageElements/header/quickAccessMenuElements/QuickAccessMenuLinks.class
+ua/com/stolkacha/pages/HomePage.class
+ua/com/stolkacha/pageElements/header/Header.class
+ua/com/stolkacha/pageElements/header/QuickAccessMenu.class
+ua/com/stolkacha/pages/LoginPage.class
+ua/com/stolkacha/pageElements/header/quickAccessMenuElements/SearchMiniForm.class
