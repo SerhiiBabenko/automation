@@ -12,7 +12,7 @@ public class RegistrationTest {
 //    public static Collection<Object[]> data() {
 //        return
 //    }
-
+private Collection<String> collection;
 
     @Test
     public void testRegistration(){
