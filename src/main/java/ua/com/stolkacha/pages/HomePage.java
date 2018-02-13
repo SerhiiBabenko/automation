@@ -9,16 +9,12 @@ import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.page;
 
 public class HomePage {
-    @FindBy(how= How.CSS, using="div.header")
+
     private Header header;
 
-
     public HomePage() {
-        this.header = new Header();
+        this.header = new Header($("div.header"));
     }
-
-
-
 
     public LoginPage selectSignInMenuLink(){
        return header

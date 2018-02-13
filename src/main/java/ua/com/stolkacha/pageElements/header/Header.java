@@ -13,10 +13,10 @@ public class Header {
     protected QuickAccessMenu quickAccessMenu;
 
 
-    public Header() {
-        this.mainLogo = new Logo();
-        this.phones = new Phones();
-        this.quickAccessMenu = new QuickAccessMenu();
+    public Header(SelenideElement header) {
+        this.mainLogo = new Logo(header.$("h2.logo"));
+        this.phones = new Phones(header.$(".phones"));
+        this.quickAccessMenu = new QuickAccessMenu(header.$(".quick-access"));
     }
 
     public Logo getMainLogo() {

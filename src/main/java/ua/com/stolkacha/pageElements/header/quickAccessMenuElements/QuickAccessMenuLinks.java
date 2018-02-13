@@ -2,13 +2,25 @@ package ua.com.stolkacha.pageElements.header.quickAccessMenuElements;
 
 import com.codeborne.selenide.SelenideElement;
 import org.openqa.selenium.By;
-import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.How;
 import ua.com.stolkacha.pages.LoginPage;
 
 import static com.codeborne.selenide.Selenide.$;
 
 public class QuickAccessMenuLinks {
+
+    private SelenideElement myAccount;
+    private SelenideElement myWishList;
+    private SelenideElement myCart;
+    private SelenideElement setOrder;
+    private SelenideElement signIn;
+
+    public QuickAccessMenuLinks(SelenideElement quickAccessMenuLinks) {
+        this.myAccount = quickAccessMenuLinks.$(".links li:nth-child(1)");
+        this.myWishList = quickAccessMenuLinks.$(".links li:nth-child(2)");
+        this.myCart = quickAccessMenuLinks.$(".links li:nth-child(3)");
+        this.setOrder = quickAccessMenuLinks.$(".links li:nth-child(4)");
+        this.signIn = quickAccessMenuLinks.$(".links li:nth-child(5)");
+    }
 //    @FindBy(how = How.CSS, using=".quick-access .links li:nth-child(1)")
 //    private SelenideElement myAccount;
 //
@@ -44,10 +56,7 @@ public class QuickAccessMenuLinks {
 //    }
 
     public LoginPage clickOnSignIn() {
-        SelenideElement element =  $(By.linkText("Войти"));
-        element.followLink();
-        element = null;
-//       element.click();
+        signIn.click();
 
         return new LoginPage();
     }
