@@ -1,12 +1,10 @@
 package ua.com.stolkacha;
 
-import com.codeborne.selenide.Configuration;
-import com.google.common.base.Verify;
-import org.junit.Assert;
+
+import io.qameta.allure.junit4.Tag;
 import org.junit.Before;
-import org.junit.BeforeClass;
 import org.junit.Test;
-import org.junit.rules.Verifier;
+
 import ua.com.stolkacha.pages.CustomerAccountPage;
 import ua.com.stolkacha.pages.HomePage;
 import ua.com.stolkacha.pages.LoginPage;
@@ -14,16 +12,21 @@ import ua.com.stolkacha.pages.LoginPage;
 import static com.codeborne.selenide.Selenide.open;
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.MatcherAssert.assertThat;
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertTrue;
 
 public class SignInTest extends BaseTest {
     private LoginPage loginPage;
 
     @Before
-    public void initialize(){
+    public void initialize() {
+
         open("https://stolkacha.com.ua");
         loginPage = new HomePage().selectSignInMenuLink();
     }
+
+
+
 
     @Test
     public void signInWithEmptyCredentials() {
@@ -40,7 +43,7 @@ public class SignInTest extends BaseTest {
 
 
     }
-
+    @Tag("Hello world")
     @Test
     public void signInWithValidCredentials() {
 
@@ -80,29 +83,6 @@ public class SignInTest extends BaseTest {
         assertFalse(loginPage.isElementVisible(loginPage.getErrMsgEmailElement()));
 
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     @Test

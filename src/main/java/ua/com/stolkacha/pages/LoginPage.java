@@ -1,15 +1,12 @@
 package ua.com.stolkacha.pages;
 
-import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.SelenideElement;
 
 import static com.codeborne.selenide.Selenide.$;
 
 public class LoginPage extends BasePage {
 
-
-
-    public LoginPage setCredentials(String email, String pass){
+    public LoginPage setCredentials(String email, String pass) {
 
         $("#email").sendKeys(email);
         $("#pass").sendKeys(pass);
@@ -17,9 +14,11 @@ public class LoginPage extends BasePage {
         return this;
     }
 
-    public void pressLoginButton(){
-
+    public void pressLoginButton() {
         $("#send2").click();
+    }
+    public void pressCreateNewAccountButton() {
+        $(".col-1.new-users .buttons-set .btn.btn-primary").click();
     }
 
     public String getErrMsgText() {
@@ -45,10 +44,6 @@ public class LoginPage extends BasePage {
     public SelenideElement getErrMsgEmailElement() {
         return $("#advice-required-entry-email");
     }
-
-
-
-
 
 
 }

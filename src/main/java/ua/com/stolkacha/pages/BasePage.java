@@ -2,10 +2,13 @@ package ua.com.stolkacha.pages;
 
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.SelenideElement;
+import org.openqa.selenium.support.PageFactory;
 
+import static com.codeborne.selenide.Condition.*;
 import static com.codeborne.selenide.Selenide.$;
 
 public abstract class BasePage {
+
 
     public String getPageTitle(){
         return $("head > title").getAttribute("text");
@@ -14,5 +17,8 @@ public abstract class BasePage {
     public boolean isElementVisible(SelenideElement element){
         return element.is(Condition.visible)?true:false;
     }
+
+
+
 
 }

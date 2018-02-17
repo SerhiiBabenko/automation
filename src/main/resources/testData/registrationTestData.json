@@ -1,0 +1,50 @@
+{  
+   "testData1":{  
+      "userCredential":{  
+         "firstName":"",
+         "lastName":"",
+         "email":"",
+         "pass":"",
+         "confPass":""
+      },
+      "errMsgs":{  
+         "firstNameErrMsg":"Это поле обязательно для заполнения.",
+         "lastNameErrMsg":"Это поле обязательно для заполнения.",
+         "emailErrMsg":"Это поле обязательно для заполнения.",
+         "passErrMsg":"Это поле обязательно для заполнения.",
+         "confPassErrMsg":"Это поле обязательно для заполнения."
+      }
+   },
+   "testData2":{  
+      "userCredential":{  
+         "firstName":"Hello",
+         "lastName":"",
+         "email":"",
+         "pass":"",
+         "confPass":""
+      },
+      "errMsgs":{  
+         "firstNameErrMsg":"",
+         "lastNameErrMsg":"Это поле обязательно для заполнения.",
+         "emailErrMsg":"Это поле обязательно для заполнения.",
+         "passErrMsg":"Это поле обязательно для заполнения.",
+         "confPassErrMsg":"Это поле обязательно для заполнения."
+      }
+   },
+   "testData3":{  
+      "userCredential":{  
+         "firstName":"Hello",
+         "lastName":"Stolkacha",
+         "email":"",
+         "pass":"",
+         "confPass":""
+      },
+      "errMsgs":{  
+         "firstNameErrMsg":"",
+         "lastNameErrMsg":"",
+         "emailErrMsg":"Это поле обязательно для заполнения.",
+         "passErrMsg":"Это поле обязательно для заполнения.",
+         "confPassErrMsg":"Это поле обязательно для заполнения."
+      }
+   }
+}
