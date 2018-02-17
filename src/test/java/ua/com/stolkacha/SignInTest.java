@@ -1,7 +1,10 @@
 package ua.com.stolkacha;
 
+
+import io.qameta.allure.junit4.Tag;
 import org.junit.Before;
 import org.junit.Test;
+
 import ua.com.stolkacha.pages.CustomerAccountPage;
 import ua.com.stolkacha.pages.HomePage;
 import ua.com.stolkacha.pages.LoginPage;
@@ -17,9 +20,13 @@ public class SignInTest extends BaseTest {
 
     @Before
     public void initialize() {
+
         open("https://stolkacha.com.ua");
         loginPage = new HomePage().selectSignInMenuLink();
     }
+
+
+
 
     @Test
     public void signInWithEmptyCredentials() {
@@ -36,7 +43,7 @@ public class SignInTest extends BaseTest {
 
 
     }
-
+    @Tag("Hello world")
     @Test
     public void signInWithValidCredentials() {
 

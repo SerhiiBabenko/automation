@@ -1,0 +1,193 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "serhii-HP-ProBook-4540s",
+    "children" : [ {
+      "name" : "7976@serhii-HP-ProBook-4540s.main(1)",
+      "children" : [ {
+        "name" : "signInWithPasswordOnly",
+        "uid" : "5754f6f06657b9b0",
+        "parentUid" : "18f18706ac10ad089b4012311bbecb89",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518885122309,
+          "stop" : 1518885126870,
+          "duration" : 4561
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "registrationWithEmtyFields[5]",
+        "uid" : "74f2c6a8689e5c39",
+        "parentUid" : "18f18706ac10ad089b4012311bbecb89",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1518885111737,
+          "stop" : 1518885111737,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "registrationWithEmtyFields[0]",
+        "uid" : "4a8bd4884ec11539",
+        "parentUid" : "18f18706ac10ad089b4012311bbecb89",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1518885111570,
+          "stop" : 1518885111575,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "registrationWithEmtyFields[6]",
+        "uid" : "55cb0bb6e110537f",
+        "parentUid" : "18f18706ac10ad089b4012311bbecb89",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1518885111739,
+          "stop" : 1518885111739,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "signInWithValidCredentials",
+        "uid" : "8300ca5019a201f6",
+        "parentUid" : "18f18706ac10ad089b4012311bbecb89",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518885134398,
+          "stop" : 1518885140414,
+          "duration" : 6016
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "registrationWithEmtyFields[7]",
+        "uid" : "8b043ac52b30b7bf",
+        "parentUid" : "18f18706ac10ad089b4012311bbecb89",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1518885111741,
+          "stop" : 1518885111741,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "registrationWithEmtyFields[4]",
+        "uid" : "be5845990fcf8fd7",
+        "parentUid" : "18f18706ac10ad089b4012311bbecb89",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1518885111734,
+          "stop" : 1518885111734,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "registrationWithEmtyFields[9]",
+        "uid" : "b99c75ba4c8d71b6",
+        "parentUid" : "18f18706ac10ad089b4012311bbecb89",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1518885111745,
+          "stop" : 1518885111745,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "signInWithInvalidCredentials",
+        "uid" : "2c39e25ef832d928",
+        "parentUid" : "18f18706ac10ad089b4012311bbecb89",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518885111768,
+          "stop" : 1518885122306,
+          "duration" : 10538
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "signInWithEmptyCredentials",
+        "uid" : "55e23dc3541866cb",
+        "parentUid" : "18f18706ac10ad089b4012311bbecb89",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518885130748,
+          "stop" : 1518885134395,
+          "duration" : 3647
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "registrationWithEmtyFields[3]",
+        "uid" : "76971f6f554685e7",
+        "parentUid" : "18f18706ac10ad089b4012311bbecb89",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1518885111731,
+          "stop" : 1518885111731,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "signInWithEmailOnly",
+        "uid" : "28a69b0ffd08c8ff",
+        "parentUid" : "18f18706ac10ad089b4012311bbecb89",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518885126872,
+          "stop" : 1518885130745,
+          "duration" : 3873
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "registrationWithEmtyFields[1]",
+        "uid" : "ac0d564aa08888b0",
+        "parentUid" : "18f18706ac10ad089b4012311bbecb89",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1518885111726,
+          "stop" : 1518885111726,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "registrationWithEmtyFields[8]",
+        "uid" : "16e0a06a86b2b76c",
+        "parentUid" : "18f18706ac10ad089b4012311bbecb89",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1518885111743,
+          "stop" : 1518885111743,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "registrationWithEmtyFields[2]",
+        "uid" : "33e84825f1c79341",
+        "parentUid" : "18f18706ac10ad089b4012311bbecb89",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1518885111729,
+          "stop" : 1518885111729,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "18f18706ac10ad089b4012311bbecb89"
+    } ],
+    "uid" : "4be8d76a511eeab524eb5d1e043f570f"
+  } ],
+  "name" : "timeline"
+}

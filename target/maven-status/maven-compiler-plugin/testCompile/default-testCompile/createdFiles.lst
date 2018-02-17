@@ -1,1 +1,4 @@
-ua/com/stolkacha/RegistrationTest.class
+ua/com/stolkacha/registration/PositiveRegistrationTest.class
+ua/com/stolkacha/SignInTest.class
+ua/com/stolkacha/BaseTest.class
+ua/com/stolkacha/registration/RegistrationWithEmptyFielsTest.class

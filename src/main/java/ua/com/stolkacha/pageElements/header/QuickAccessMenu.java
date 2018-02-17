@@ -1,28 +1,25 @@
 package ua.com.stolkacha.pageElements.header;
 
 import com.codeborne.selenide.SelenideElement;
-import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.How;
 import ua.com.stolkacha.pageElements.header.quickAccessMenuElements.QuickAccessMenuLinks;
 import ua.com.stolkacha.pageElements.header.quickAccessMenuElements.SearchMiniForm;
 
 public class QuickAccessMenu {
-//    @FindBy(how= How.CLASS_NAME, using="quick-access")
-   private QuickAccessMenuLinks quickAccessMenuLinks;
-//
-//    @FindBy(how= How.ID, using="search_mini_form")
+
+    private SelenideElement quickAccessMenu;
+    private QuickAccessMenuLinks quickAccessMenuLinks;
     private SearchMiniForm searchMiniForm;
 
     public QuickAccessMenu(SelenideElement quickAccessMenu) {
-        this.quickAccessMenuLinks = new QuickAccessMenuLinks(quickAccessMenu.$(".links"));
-        this.searchMiniForm = new SearchMiniForm(quickAccessMenu.$("#search_mini_form"));
+        this.quickAccessMenu = quickAccessMenu;
     }
 
     public QuickAccessMenuLinks getQuickAccessMenuLinks() {
-        return quickAccessMenuLinks;
+        return new QuickAccessMenuLinks(quickAccessMenu.$(".links"));
     }
 
     public SearchMiniForm getSearchMiniForm() {
-        return searchMiniForm;
+
+        return new SearchMiniForm(quickAccessMenu.$("#search_mini_form"));
     }
 }

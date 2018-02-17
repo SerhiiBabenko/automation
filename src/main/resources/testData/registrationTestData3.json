@@ -1,0 +1,162 @@
+[
+  {
+    "userCredentials": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "pass": "",
+      "confPass": ""
+    },
+    "errMsgs": {
+      "firstNameErrMsg": "Это поле обязательно для заполнения.",
+      "lastNameErrMsg": "Это поле обязательно для заполнения.",
+      "emailErrMsg": "Это поле обязательно для заполнения.",
+      "passErrMsg": "Это поле обязательно для заполнения.",
+      "confPassErrMsg": "Это поле обязательно для заполнения."
+    }
+  },
+  {
+    "userCredentials":{
+      "firstName":"Hello",
+      "lastName":"",
+      "email":"",
+      "pass":"",
+      "confPass":""
+    },
+    "errMsgs":{
+      "firstNameErrMsg":"",
+      "lastNameErrMsg":"Это поле обязательно для заполнения.",
+      "emailErrMsg":"Это поле обязательно для заполнения.",
+      "passErrMsg":"Это поле обязательно для заполнения.",
+      "confPassErrMsg":"Это поле обязательно для заполнения."
+    }
+  },
+  {
+    "userCredentials":{
+      "firstName":"Hello",
+      "lastName":"World",
+      "email":"",
+      "pass":"",
+      "confPass":""
+    },
+    "errMsgs":{
+      "firstNameErrMsg":"",
+      "lastNameErrMsg":"",
+      "emailErrMsg":"Это поле обязательно для заполнения.",
+      "passErrMsg":"Это поле обязательно для заполнения.",
+      "confPassErrMsg":"Это поле обязательно для заполнения."
+    }
+  },
+  {
+    "userCredentials":{
+      "firstName":"Hello",
+      "lastName":"World",
+      "email":"myMail@gmail.com",
+      "pass":"",
+      "confPass":""
+    },
+    "errMsgs":{
+      "firstNameErrMsg":"",
+      "lastNameErrMsg":"",
+      "emailErrMsg":"",
+      "passErrMsg":"Это поле обязательно для заполнения.",
+      "confPassErrMsg":"Это поле обязательно для заполнения."
+    }
+  },
+  {
+    "userCredentials":{
+      "firstName":"Hello",
+      "lastName":"World",
+      "email":"myMail@gmail.com",
+      "pass":"1234567",
+      "confPass":""
+    },
+    "errMsgs":{
+      "firstNameErrMsg":"",
+      "lastNameErrMsg":"",
+      "emailErrMsg":"",
+      "passErrMsg":"",
+      "confPassErrMsg":"Это поле обязательно для заполнения."
+    }
+  },
+  {
+    "userCredentials":{
+      "firstName":"",
+      "lastName":"World",
+      "email":"myMail@gmail.com",
+      "pass":"1234567",
+      "confPass":"1234567"
+    },
+    "errMsgs":{
+      "firstNameErrMsg":"Это поле обязательно для заполнения.",
+      "lastNameErrMsg":"",
+      "emailErrMsg":"",
+      "passErrMsg":"",
+      "confPassErrMsg":""
+    }
+  },
+  {
+    "userCredentials":{
+      "firstName":"Hello",
+      "lastName":"",
+      "email":"myMail@gmail.com",
+      "pass":"1234567",
+      "confPass":"1234567"
+    },
+    "errMsgs":{
+      "firstNameErrMsg":"",
+      "lastNameErrMsg":"Это поле обязательно для заполнения.",
+      "emailErrMsg":"",
+      "passErrMsg":"",
+      "confPassErrMsg":""
+    }
+  },
+  {
+    "userCredentials":{
+      "firstName":"Hello",
+      "lastName":"World",
+      "email":"",
+      "pass":"1234567",
+      "confPass":"1234567"
+    },
+    "errMsgs":{
+      "firstNameErrMsg":"",
+      "lastNameErrMsg":"",
+      "emailErrMsg":"Это поле обязательно для заполнения.",
+      "passErrMsg":"",
+      "confPassErrMsg":""
+    }
+  },
+  {
+    "userCredentials":{
+      "firstName":"Hello",
+      "lastName":"World",
+      "email":"myMail@gmail.com",
+      "pass":"",
+      "confPass":"1234567"
+    },
+    "errMsgs":{
+      "firstNameErrMsg":"",
+      "lastNameErrMsg":"",
+      "emailErrMsg":"",
+      "passErrMsg":"Это поле обязательно для заполнения.",
+      "confPassErrMsg":""
+    }
+  },
+  {
+    "userCredentials":{
+      "firstName":"Hello",
+      "lastName":"World",
+      "email":"myMail@gmail.com",
+      "pass":"1234567",
+      "confPass":""
+    },
+    "errMsgs":{
+      "firstNameErrMsg":"",
+      "lastNameErrMsg":"",
+      "emailErrMsg":"",
+      "passErrMsg":"",
+      "confPassErrMsg":"Это поле обязательно для заполнения."
+    }
+  }
+]

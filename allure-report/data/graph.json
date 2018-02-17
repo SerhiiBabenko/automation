@@ -1,0 +1,151 @@
+[ {
+  "uid" : "5754f6f06657b9b0",
+  "name" : "signInWithPasswordOnly",
+  "time" : {
+    "start" : 1518885122309,
+    "stop" : 1518885126870,
+    "duration" : 4561
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "74f2c6a8689e5c39",
+  "name" : "registrationWithEmtyFields[5]",
+  "time" : {
+    "start" : 1518885111737,
+    "stop" : 1518885111737,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "4a8bd4884ec11539",
+  "name" : "registrationWithEmtyFields[0]",
+  "time" : {
+    "start" : 1518885111570,
+    "stop" : 1518885111575,
+    "duration" : 5
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "55cb0bb6e110537f",
+  "name" : "registrationWithEmtyFields[6]",
+  "time" : {
+    "start" : 1518885111739,
+    "stop" : 1518885111739,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "8300ca5019a201f6",
+  "name" : "signInWithValidCredentials",
+  "time" : {
+    "start" : 1518885134398,
+    "stop" : 1518885140414,
+    "duration" : 6016
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8b043ac52b30b7bf",
+  "name" : "registrationWithEmtyFields[7]",
+  "time" : {
+    "start" : 1518885111741,
+    "stop" : 1518885111741,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "be5845990fcf8fd7",
+  "name" : "registrationWithEmtyFields[4]",
+  "time" : {
+    "start" : 1518885111734,
+    "stop" : 1518885111734,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b99c75ba4c8d71b6",
+  "name" : "registrationWithEmtyFields[9]",
+  "time" : {
+    "start" : 1518885111745,
+    "stop" : 1518885111745,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "2c39e25ef832d928",
+  "name" : "signInWithInvalidCredentials",
+  "time" : {
+    "start" : 1518885111768,
+    "stop" : 1518885122306,
+    "duration" : 10538
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "55e23dc3541866cb",
+  "name" : "signInWithEmptyCredentials",
+  "time" : {
+    "start" : 1518885130748,
+    "stop" : 1518885134395,
+    "duration" : 3647
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "76971f6f554685e7",
+  "name" : "registrationWithEmtyFields[3]",
+  "time" : {
+    "start" : 1518885111731,
+    "stop" : 1518885111731,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "28a69b0ffd08c8ff",
+  "name" : "signInWithEmailOnly",
+  "time" : {
+    "start" : 1518885126872,
+    "stop" : 1518885130745,
+    "duration" : 3873
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ac0d564aa08888b0",
+  "name" : "registrationWithEmtyFields[1]",
+  "time" : {
+    "start" : 1518885111726,
+    "stop" : 1518885111726,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "16e0a06a86b2b76c",
+  "name" : "registrationWithEmtyFields[8]",
+  "time" : {
+    "start" : 1518885111743,
+    "stop" : 1518885111743,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "33e84825f1c79341",
+  "name" : "registrationWithEmtyFields[2]",
+  "time" : {
+    "start" : 1518885111729,
+    "stop" : 1518885111729,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]

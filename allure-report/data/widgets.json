@@ -1,0 +1,69 @@
+{
+  "summary" : {
+    "reportName" : "Allure Report",
+    "testRuns" : [ ],
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 10,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 15
+    },
+    "time" : {
+      "start" : 1518885111570,
+      "stop" : 1518885140414,
+      "duration" : 28844,
+      "minDuration" : 0,
+      "maxDuration" : 10538,
+      "sumDuration" : 28640
+    }
+  },
+  "environment" : [ ],
+  "suites" : {
+    "total" : 2,
+    "items" : [ {
+      "uid" : "e9be2a8f0ee2f6bcc62185c46236165f",
+      "name" : "ua.com.stolkacha.SignInTest",
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 5,
+        "unknown" : 0,
+        "total" : 5
+      }
+    }, {
+      "uid" : "5a78b96743cba87d6a1eae3ab5e1d35e",
+      "name" : "ua.com.stolkacha.registration.RegistrationWithEmptyFielsTest",
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 10,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 10
+      }
+    } ]
+  },
+  "history-trend" : [ {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 10,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 15
+    }
+  } ],
+  "behaviors" : {
+    "total" : 15,
+    "items" : [ ]
+  },
+  "executors" : [ ],
+  "categories" : {
+    "total" : 0,
+    "items" : [ ]
+  },
+  "launches" : [ ]
+}

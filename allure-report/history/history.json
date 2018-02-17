@@ -1,0 +1,297 @@
+{
+  "198f7c844c33f4e01ff8990ed1af4e33" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ac0d564aa08888b0",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored (without reason)!",
+      "time" : {
+        "start" : 1518885111726,
+        "stop" : 1518885111726,
+        "duration" : 0
+      }
+    } ]
+  },
+  "946bef28abde96f0988ad74b3f25639" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8b043ac52b30b7bf",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored (without reason)!",
+      "time" : {
+        "start" : 1518885111741,
+        "stop" : 1518885111741,
+        "duration" : 0
+      }
+    } ]
+  },
+  "dc67329cefab7c60c2c31860f7cda54f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b99c75ba4c8d71b6",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored (without reason)!",
+      "time" : {
+        "start" : 1518885111745,
+        "stop" : 1518885111745,
+        "duration" : 0
+      }
+    } ]
+  },
+  "45a9667afa3e15727be08c5a705ce4c4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8300ca5019a201f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518885134398,
+        "stop" : 1518885140414,
+        "duration" : 6016
+      }
+    } ]
+  },
+  "92abb3f38bb7462c3624958465cb987c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "76971f6f554685e7",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored (without reason)!",
+      "time" : {
+        "start" : 1518885111731,
+        "stop" : 1518885111731,
+        "duration" : 0
+      }
+    } ]
+  },
+  "16b712b9d442346cbf343de9ff4fc978" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "28a69b0ffd08c8ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518885126872,
+        "stop" : 1518885130745,
+        "duration" : 3873
+      }
+    } ]
+  },
+  "311baa509ba00273875c1db042c39bd5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "74f2c6a8689e5c39",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored (without reason)!",
+      "time" : {
+        "start" : 1518885111737,
+        "stop" : 1518885111737,
+        "duration" : 0
+      }
+    } ]
+  },
+  "6569cf7f7332da82fe0df2729a1a2125" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "55e23dc3541866cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518885130748,
+        "stop" : 1518885134395,
+        "duration" : 3647
+      }
+    } ]
+  },
+  "642f5845a3b1b56998f90f1bedf6d38d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "16e0a06a86b2b76c",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored (without reason)!",
+      "time" : {
+        "start" : 1518885111743,
+        "stop" : 1518885111743,
+        "duration" : 0
+      }
+    } ]
+  },
+  "e805549f7c212add9e2cb2716ac36464" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2c39e25ef832d928",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518885111768,
+        "stop" : 1518885122306,
+        "duration" : 10538
+      }
+    } ]
+  },
+  "a2c4370f8a63beb7d13df601e29b9833" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5754f6f06657b9b0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518885122309,
+        "stop" : 1518885126870,
+        "duration" : 4561
+      }
+    } ]
+  },
+  "511532b986dd0fb45210e6ed2bf2a096" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "33e84825f1c79341",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored (without reason)!",
+      "time" : {
+        "start" : 1518885111729,
+        "stop" : 1518885111729,
+        "duration" : 0
+      }
+    } ]
+  },
+  "a8838103994072cc6bcc90b15dcfa5dc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "55cb0bb6e110537f",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored (without reason)!",
+      "time" : {
+        "start" : 1518885111739,
+        "stop" : 1518885111739,
+        "duration" : 0
+      }
+    } ]
+  },
+  "a58001dfb479d78cd1704d8c83732108" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "be5845990fcf8fd7",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored (without reason)!",
+      "time" : {
+        "start" : 1518885111734,
+        "stop" : 1518885111734,
+        "duration" : 0
+      }
+    } ]
+  },
+  "86afb37933002c9cf7b7e4a8bcbcb47c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4a8bd4884ec11539",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored (without reason)!",
+      "time" : {
+        "start" : 1518885111570,
+        "stop" : 1518885111575,
+        "duration" : 5
+      }
+    } ]
+  }
+}

@@ -5,19 +5,18 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 
 public class Header {
-    @FindBy(how= How.CSS, using="h2.logo")
-    protected Logo mainLogo;
-    @FindBy(how= How.CSS, using=".phones")
-    protected Phones phones;
-    @FindBy(how= How.CSS, using=".quick-access")
-    protected QuickAccessMenu quickAccessMenu;
 
+    private Logo mainLogo;
+    private Phones phones;
+    private QuickAccessMenu quickAccessMenu;
 
     public Header(SelenideElement header) {
         this.mainLogo = new Logo(header.$("h2.logo"));
         this.phones = new Phones(header.$(".phones"));
         this.quickAccessMenu = new QuickAccessMenu(header.$(".quick-access"));
     }
+
+
 
     public Logo getMainLogo() {
         return mainLogo;

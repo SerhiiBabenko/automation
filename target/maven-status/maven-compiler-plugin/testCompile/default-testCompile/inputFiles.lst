@@ -1,1 +1,4 @@
-/home/serhii/Desktop/AutomationProject/automation/src/test/java/ua/com/stolkacha/RegistrationTest.java
+/home/serhii/Desktop/AutomationProject/automation/src/test/java/ua/com/stolkacha/registration/PositiveRegistrationTest.java
+/home/serhii/Desktop/AutomationProject/automation/src/test/java/ua/com/stolkacha/SignInTest.java
+/home/serhii/Desktop/AutomationProject/automation/src/test/java/ua/com/stolkacha/BaseTest.java
+/home/serhii/Desktop/AutomationProject/automation/src/test/java/ua/com/stolkacha/registration/RegistrationWithEmptyFielsTest.java
