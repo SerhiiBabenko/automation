@@ -1,5 +1,75 @@
 [ {
-  "uid" : "5754f6f06657b9b0",
+  "uid" : "146a93792d82d4c0",
+  "name" : "Given a user is on the Lamps page",
+  "time" : {
+    "start" : 1519006146480,
+    "stop" : 1519006146480,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ddb94a9f9c76f55",
+  "name" : "When user select Narva filter item",
+  "time" : {
+    "start" : 1519006148254,
+    "stop" : 1519006148254,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e2a13c1b6e924f38",
+  "name" : "registrationWithEmtyFields[1]",
+  "time" : {
+    "start" : 1518909950754,
+    "stop" : 1518909956572,
+    "duration" : 5818
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5e840b94f1ec441d",
+  "name" : "registrationWithEmtyFields[6]",
+  "time" : {
+    "start" : 1518909979019,
+    "stop" : 1518909985088,
+    "duration" : 6069
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f376e911c72224a7",
+  "name" : "shouldGetWeatherByZipCode",
+  "time" : {
+    "start" : 1519090885120,
+    "stop" : 1519090885238,
+    "duration" : 118
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5ba5befd2e121840",
+  "name" : "shouldGetWeatherByCoordinates",
+  "time" : {
+    "start" : 1519088944711,
+    "stop" : 1519088944711,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "32ae31fecd90fbf4",
+  "name" : "registrationWithEmtyFields[3]",
+  "time" : {
+    "start" : 1518909963253,
+    "stop" : 1518909968456,
+    "duration" : 5203
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "37191dbab191c088",
   "name" : "signInWithPasswordOnly",
   "time" : {
     "start" : 1518885122309,
@@ -9,77 +79,77 @@
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "74f2c6a8689e5c39",
-  "name" : "registrationWithEmtyFields[5]",
+  "uid" : "8e753f1a95d5bdad",
+  "name" : "Then all product titles correspond to the selected manufacturer",
   "time" : {
-    "start" : 1518885111737,
-    "stop" : 1518885111737,
+    "start" : 1519006143027,
+    "stop" : 1519006143027,
     "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "4a8bd4884ec11539",
-  "name" : "registrationWithEmtyFields[0]",
-  "time" : {
-    "start" : 1518885111570,
-    "stop" : 1518885111575,
-    "duration" : 5
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "55cb0bb6e110537f",
-  "name" : "registrationWithEmtyFields[6]",
-  "time" : {
-    "start" : 1518885111739,
-    "stop" : 1518885111739,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "8300ca5019a201f6",
-  "name" : "signInWithValidCredentials",
-  "time" : {
-    "start" : 1518885134398,
-    "stop" : 1518885140414,
-    "duration" : 6016
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "8b043ac52b30b7bf",
-  "name" : "registrationWithEmtyFields[7]",
+  "uid" : "8f2abcb93324b121",
+  "name" : "ua.com.stolkacha.registration.RegistrationWithEmptyFielsTest",
   "time" : {
-    "start" : 1518885111741,
-    "stop" : 1518885111741,
-    "duration" : 0
+    "start" : 1519006096564,
+    "stop" : 1519006096568,
+    "duration" : 4
   },
   "status" : "skipped",
   "severity" : "normal"
 }, {
-  "uid" : "be5845990fcf8fd7",
-  "name" : "registrationWithEmtyFields[4]",
+  "uid" : "9aee616ac4f11ab3",
+  "name" : "When user select Solar filter item",
   "time" : {
-    "start" : 1518885111734,
-    "stop" : 1518885111734,
+    "start" : 1519006165142,
+    "stop" : 1519006165142,
     "duration" : 0
   },
-  "status" : "skipped",
+  "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "b99c75ba4c8d71b6",
-  "name" : "registrationWithEmtyFields[9]",
+  "uid" : "17d677cec1a5c91e",
+  "name" : "shouldGetWeatherByCityAndCountryCode",
   "time" : {
-    "start" : 1518885111745,
-    "stop" : 1518885111745,
+    "start" : 1519088944400,
+    "stop" : 1519088944502,
+    "duration" : 102
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e06437dabf62ab26",
+  "name" : "When user select Brevia filter item",
+  "time" : {
+    "start" : 1519006155272,
+    "stop" : 1519006155272,
     "duration" : 0
   },
-  "status" : "skipped",
+  "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "2c39e25ef832d928",
+  "uid" : "cb72ea1ee36548d0",
+  "name" : "Then all product titles correspond to the selected manufacturer",
+  "time" : {
+    "start" : 1519006161482,
+    "stop" : 1519006161482,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e4fc2297691f6b17",
+  "name" : "When user select Philips filter item",
+  "time" : {
+    "start" : 1519006140187,
+    "stop" : 1519006140187,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d7963ccfdca633a2",
   "name" : "signInWithInvalidCredentials",
   "time" : {
     "start" : 1518885111768,
@@ -89,27 +159,127 @@
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "55e23dc3541866cb",
-  "name" : "signInWithEmptyCredentials",
+  "uid" : "d0203229626f72bb",
+  "name" : "registrationWithEmtyFields[5]",
   "time" : {
-    "start" : 1518885130748,
-    "stop" : 1518885134395,
-    "duration" : 3647
+    "start" : 1518909973793,
+    "stop" : 1518909979017,
+    "duration" : 5224
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "76971f6f554685e7",
-  "name" : "registrationWithEmtyFields[3]",
+  "uid" : "688fb555fe809855",
+  "name" : "shouldGetWeatherByCity",
   "time" : {
-    "start" : 1518885111731,
-    "stop" : 1518885111731,
+    "start" : 1519088944714,
+    "stop" : 1519088944714,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4e44c0e833197f43",
+  "name" : "signInWithValidCredentials",
+  "time" : {
+    "start" : 1518885134398,
+    "stop" : 1518885140414,
+    "duration" : 6016
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f63a95d592ec346",
+  "name" : "Given a user is on the Lamps page",
+  "time" : {
+    "start" : 1519006154388,
+    "stop" : 1519006154388,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f7bc37d753e8bc9f",
+  "name" : "shouldGetWeatherByCoordinates",
+  "time" : {
+    "start" : 1519090884786,
+    "stop" : 1519090884957,
+    "duration" : 171
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "272b86244020127a",
+  "name" : "registrationWithEmtyFields[8]",
+  "time" : {
+    "start" : 1518909991180,
+    "stop" : 1518909996334,
+    "duration" : 5154
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f00c59e942ee9f69",
+  "name" : "shouldGetWeatherByCity",
+  "time" : {
+    "start" : 1519090884995,
+    "stop" : 1519090885119,
+    "duration" : 124
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "da99e46c3278cbda",
+  "name" : "registrationWithEmtyFields[2]",
+  "time" : {
+    "start" : 1518909956576,
+    "stop" : 1518909963250,
+    "duration" : 6674
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a73cf543d7b8e304",
+  "name" : "shouldNotGetNonExistingCity",
+  "time" : {
+    "start" : 1519088944708,
+    "stop" : 1519088944708,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fe61302f897d228b",
+  "name" : "shouldGetWeatherByCityAndCountryCode",
+  "time" : {
+    "start" : 1519090880821,
+    "stop" : 1519090884459,
+    "duration" : 3638
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2e181db1fd197a71",
+  "name" : "ua.com.stolkacha.SignInTest",
+  "time" : {
+    "start" : 1519006096720,
+    "stop" : 1519006096720,
     "duration" : 0
   },
   "status" : "skipped",
   "severity" : "normal"
 }, {
-  "uid" : "28a69b0ffd08c8ff",
+  "uid" : "efeb68ed503414a4",
+  "name" : "Given a user is on the Lamps page",
+  "time" : {
+    "start" : 1519006138565,
+    "stop" : 1519006138570,
+    "duration" : 5
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "866f1522402c53c5",
   "name" : "signInWithEmailOnly",
   "time" : {
     "start" : 1518885126872,
@@ -119,33 +289,103 @@
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "ac0d564aa08888b0",
-  "name" : "registrationWithEmtyFields[1]",
+  "uid" : "557c9c54c8e141b1",
+  "name" : "registrationWithEmtyFields[0]",
   "time" : {
-    "start" : 1518885111726,
-    "stop" : 1518885111726,
-    "duration" : 0
+    "start" : 1518909933186,
+    "stop" : 1518909950521,
+    "duration" : 17335
   },
-  "status" : "skipped",
+  "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "16e0a06a86b2b76c",
-  "name" : "registrationWithEmtyFields[8]",
+  "uid" : "67899ca9d9ae4c15",
+  "name" : "shouldGetWeatherByZipCode",
   "time" : {
-    "start" : 1518885111743,
-    "stop" : 1518885111743,
-    "duration" : 0
+    "start" : 1519088944717,
+    "stop" : 1519088944718,
+    "duration" : 1
   },
-  "status" : "skipped",
+  "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "33e84825f1c79341",
-  "name" : "registrationWithEmtyFields[2]",
+  "uid" : "fbec7a3dd0e35fee",
+  "name" : "registrationWithEmtyFields[7]",
   "time" : {
-    "start" : 1518885111729,
-    "stop" : 1518885111729,
+    "start" : 1518909985090,
+    "stop" : 1518909991176,
+    "duration" : 6086
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "99400cf4296d624d",
+  "name" : "Given a user is on the Lamps page",
+  "time" : {
+    "start" : 1519006163423,
+    "stop" : 1519006163423,
     "duration" : 0
   },
-  "status" : "skipped",
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "698aae5966394eea",
+  "name" : "shouldNotGetNonExistingCity",
+  "time" : {
+    "start" : 1519090884626,
+    "stop" : 1519090884780,
+    "duration" : 154
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a419146d57921699",
+  "name" : "signInWithEmptyCredentials",
+  "time" : {
+    "start" : 1518885130748,
+    "stop" : 1518885134395,
+    "duration" : 3647
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "823024c26357dd96",
+  "name" : "registrationWithEmtyFields[4]",
+  "time" : {
+    "start" : 1518909968460,
+    "stop" : 1518909973789,
+    "duration" : 5329
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ebfc9a15c9bdfa5",
+  "name" : "Then all product titles correspond to the selected manufacturer",
+  "time" : {
+    "start" : 1519006167477,
+    "stop" : 1519006167477,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "21dcc6a27c34d08c",
+  "name" : "registrationWithEmtyFields[9]",
+  "time" : {
+    "start" : 1518909996337,
+    "stop" : 1518910001457,
+    "duration" : 5120
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "90879d74303042f0",
+  "name" : "Then all product titles correspond to the selected manufacturer",
+  "time" : {
+    "start" : 1519006152603,
+    "stop" : 1519006152603,
+    "duration" : 0
+  },
+  "status" : "passed",
   "severity" : "normal"
 } ]

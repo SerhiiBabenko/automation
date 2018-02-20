@@ -1,0 +1,53 @@
+{
+  "uid" : "13099fbb55804f9d",
+  "name" : "Given a user is on the Lamps page",
+  "fullName" : "| Brevia |.Given a user is on the Lamps page",
+  "historyId" : "8e34f92d369a32cba500acc6f76b0ca",
+  "time" : {
+    "start" : 1518912106172,
+    "stop" : 1518912106172,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "| Brevia |"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given a user is on the Lamps page"
+  }, {
+    "name" : "suite",
+    "value" : "| Brevia |"
+  }, {
+    "name" : "host",
+    "value" : "serhii-HP-ProBook-4540s"
+  }, {
+    "name" : "thread",
+    "value" : "5986@serhii-HP-ProBook-4540s.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "extra" : {
+    "tags" : [ ]
+  },
+  "source" : "13099fbb55804f9d.json",
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "parameterValues" : [ ]
+}

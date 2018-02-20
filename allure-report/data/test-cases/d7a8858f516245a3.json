@@ -1,0 +1,53 @@
+{
+  "uid" : "d7a8858f516245a3",
+  "name" : "When user select Narva filter item",
+  "fullName" : "| Narva |.When user select Narva filter item",
+  "historyId" : "2abc54c5e566148fb72f392ec995c10c",
+  "time" : {
+    "start" : 1518914913342,
+    "stop" : 1518914913342,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "| Narva |"
+  }, {
+    "name" : "testMethod",
+    "value" : "When user select Narva filter item"
+  }, {
+    "name" : "suite",
+    "value" : "| Narva |"
+  }, {
+    "name" : "host",
+    "value" : "serhii-HP-ProBook-4540s"
+  }, {
+    "name" : "thread",
+    "value" : "3431@serhii-HP-ProBook-4540s.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "extra" : {
+    "tags" : [ ]
+  },
+  "source" : "d7a8858f516245a3.json",
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "parameterValues" : [ ]
+}

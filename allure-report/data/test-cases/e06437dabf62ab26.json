@@ -1,0 +1,196 @@
+{
+  "uid" : "e06437dabf62ab26",
+  "name" : "When user select Brevia filter item",
+  "fullName" : "| Brevia |.When user select Brevia filter item",
+  "historyId" : "4fc9608f34c8dbba882046f08a1a1445",
+  "time" : {
+    "start" : 1519006155272,
+    "stop" : 1519006155272,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : true
+  },
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "| Brevia |"
+  }, {
+    "name" : "testMethod",
+    "value" : "When user select Brevia filter item"
+  }, {
+    "name" : "suite",
+    "value" : "| Brevia |"
+  }, {
+    "name" : "host",
+    "value" : "serhii-HP-ProBook-4540s"
+  }, {
+    "name" : "thread",
+    "value" : "12785@serhii-HP-ProBook-4540s.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "73e9ba60e288afad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518919249724,
+        "stop" : 1518919249724,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "bd1f53eabcfd1ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518915878833,
+        "stop" : 1518915878833,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "92b1f391df68eafe",
+      "status" : "failed",
+      "statusDetails" : "Element should not exist {.row:nth-child(1) .col-md-4:nth-child(1)}\nElement: '<div class=\"col-md-4\">Автомобильная лампа BREVIA Bax 12V 1.2W Light Blue (12320C)\nНазначение: вспомогательное освещение| Вид лампы: накаливания| Место установки: освещение приборной панели, освещение салона| Цоколь: B8.4d| Напряжение: 12В\nЦена: 9.18 грн.\nДобавить в корзину</div>'",
+      "time" : {
+        "start" : 1518915563376,
+        "stop" : 1518915563376,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "53f74feee5e8a8b0",
+      "status" : "failed",
+      "statusDetails" : "Element should hidden {.row:nth-child(1) .col-md-4:nth-child(1)}\nElement: '<div class=\"col-md-4\">Автомобильная лампа BREVIA Bax 12V 1.2W Light Blue (12320C)\nНазначение: вспомогательное освещение| Вид лампы: накаливания| Место установки: освещение приборной панели, освещение салона| Цоколь: B8.4d| Напряжение: 12В\nЦена: 9.18 грн.\nДобавить в корзину</div>'",
+      "time" : {
+        "start" : 1518915450406,
+        "stop" : 1518915450407,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "81767c414b5570af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518915180219,
+        "stop" : 1518915180220,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "5ec073a2d9c2d8a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518915004133,
+        "stop" : 1518915004133,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d02639c5a105dda0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518914916124,
+        "stop" : 1518914916125,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "ede3aeafd06f58e",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored (without reason)!",
+      "time" : {
+        "start" : 1518914338312,
+        "stop" : 1518914338312,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "887bb8b2d0d21091",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518913899593,
+        "stop" : 1518913899593,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "255c881e3a6bd8cd",
+      "status" : "failed",
+      "statusDetails" : "Element should be exact text '' {.product_title[4]}\nElement: '<p class=\"product_title\">Автомобильная лампа BREVIA C18W 12V 18W (12318C)</p>'",
+      "time" : {
+        "start" : 1518913705100,
+        "stop" : 1518913705100,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "dbbc7cd319c7e1f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518913037572,
+        "stop" : 1518913037572,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a15abbb9ce075967",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518912106309,
+        "stop" : 1518912106310,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "dd299f67a3c6f6e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518911807342,
+        "stop" : 1518911807342,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f36c7c6981a6a919",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518911671535,
+        "stop" : 1518911671536,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "3f26a1b7aa20b2bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518911028515,
+        "stop" : 1518911028515,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "4ef4c10fdf36a6cd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518910656562,
+        "stop" : 1518910656562,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "55f538b3b45b4d50",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518910307300,
+        "stop" : 1518910307300,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e06437dabf62ab26.json",
+  "statusDetailsSafe" : {
+    "flaky" : true
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "parameterValues" : [ ]
+}

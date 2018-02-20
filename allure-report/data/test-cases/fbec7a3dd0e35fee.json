@@ -1,0 +1,65 @@
+{
+  "uid" : "fbec7a3dd0e35fee",
+  "name" : "registrationWithEmtyFields[7]",
+  "fullName" : "ua.com.stolkacha.registration.RegistrationWithEmptyFielsTest.registrationWithEmtyFields[7]",
+  "historyId" : "946bef28abde96f0988ad74b3f25639",
+  "time" : {
+    "start" : 1518909985090,
+    "stop" : 1518909991176,
+    "duration" : 6086
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "ua.com.stolkacha.registration"
+  }, {
+    "name" : "testClass",
+    "value" : "ua.com.stolkacha.registration.RegistrationWithEmptyFielsTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "registrationWithEmtyFields[7]"
+  }, {
+    "name" : "suite",
+    "value" : "ua.com.stolkacha.registration.RegistrationWithEmptyFielsTest"
+  }, {
+    "name" : "host",
+    "value" : "serhii-HP-ProBook-4540s"
+  }, {
+    "name" : "thread",
+    "value" : "1000@serhii-HP-ProBook-4540s.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d462bf4fb70839f",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored (without reason)!",
+      "time" : {
+        "start" : 1518885111741,
+        "stop" : 1518885111741,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fbec7a3dd0e35fee.json",
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "parameterValues" : [ ]
+}

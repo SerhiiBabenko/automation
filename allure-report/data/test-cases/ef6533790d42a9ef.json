@@ -1,0 +1,57 @@
+{
+  "uid" : "ef6533790d42a9ef",
+  "name" : "When user select Philips filter item",
+  "fullName" : "| Philips |.When user select Philips filter item",
+  "historyId" : "37d37bf316ba4a7c772a1703eef41b1",
+  "time" : {
+    "start" : 1518915537658,
+    "stop" : 1518915537667,
+    "duration" : 9
+  },
+  "status" : "failed",
+  "statusDetails" : {
+    "message" : "Element should not exist {.row:nth-child(1) .col-md-4:nth-child(1)}\nElement: '<div class=\"col-md-4\">Автомобильная лампа PHILIPS CrystalVision HB3 (9005CVB1)\nНазначение: фары головного света| Вид лампы: галогеновая| Место установки: ближний свет, дальний свет, противотуманные фары| Цоколь: P20d| Напряжение: 12В\nЦена: 336.69 грн.\nДобавить в корзину</div>'",
+    "trace" : "Element should not exist {.row:nth-child(1) .col-md-4:nth-child(1)}\nElement: '<div class=\"col-md-4\">Автомобильная лампа PHILIPS CrystalVision HB3 (9005CVB1)\nНазначение: фары головного света| Вид лампы: галогеновая| Место установки: ближний свет, дальний свет, противотуманные фары| Цоколь: P20d| Напряжение: 12В\nЦена: 336.69 грн.\nДобавить в корзину</div>'\nScreenshot: file:/home/serhii/Desktop/AutomationProject/automation/build/reports/tests/1518915537469.0.png\nTimeout: 10 s.\n\tat com.codeborne.selenide.impl.WebElementSource.checkCondition(WebElementSource.java:63)\n\tat com.codeborne.selenide.commands.ShouldNot.shouldNot(ShouldNot.java:36)\n\tat com.codeborne.selenide.commands.ShouldNot.execute(ShouldNot.java:29)\n\tat com.codeborne.selenide.commands.ShouldNot.execute(ShouldNot.java:12)\n\tat com.codeborne.selenide.commands.Commands.execute(Commands.java:140)\n\tat com.codeborne.selenide.impl.SelenideElementProxy.dispatchAndRetry(SelenideElementProxy.java:86)\n\tat com.codeborne.selenide.impl.SelenideElementProxy.invoke(SelenideElementProxy.java:62)\n\tat com.sun.proxy.$Proxy26.shouldNot(Unknown Source)\n\tat ua.com.stolkacha.pageObjects.LampsPage.selectFilter(LampsPage.java:26)\n\tat ua.com.stolkacha.cucumber.steps.LampsManufacStepsDefs.userSelectManufacturerFilterItem(LampsManufacStepsDefs.java:34)\n\tat ✽.When user select Philips filter item(features/stolkacha_lamps_manufacturer_filter.feature:6)\n",
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "| Philips |"
+  }, {
+    "name" : "testMethod",
+    "value" : "When user select Philips filter item"
+  }, {
+    "name" : "suite",
+    "value" : "| Philips |"
+  }, {
+    "name" : "host",
+    "value" : "serhii-HP-ProBook-4540s"
+  }, {
+    "name" : "thread",
+    "value" : "5108@serhii-HP-ProBook-4540s.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "extra" : {
+    "tags" : [ ]
+  },
+  "source" : "ef6533790d42a9ef.json",
+  "statusDetailsSafe" : {
+    "message" : "Element should not exist {.row:nth-child(1) .col-md-4:nth-child(1)}\nElement: '<div class=\"col-md-4\">Автомобильная лампа PHILIPS CrystalVision HB3 (9005CVB1)\nНазначение: фары головного света| Вид лампы: галогеновая| Место установки: ближний свет, дальний свет, противотуманные фары| Цоколь: P20d| Напряжение: 12В\nЦена: 336.69 грн.\nДобавить в корзину</div>'",
+    "trace" : "Element should not exist {.row:nth-child(1) .col-md-4:nth-child(1)}\nElement: '<div class=\"col-md-4\">Автомобильная лампа PHILIPS CrystalVision HB3 (9005CVB1)\nНазначение: фары головного света| Вид лампы: галогеновая| Место установки: ближний свет, дальний свет, противотуманные фары| Цоколь: P20d| Напряжение: 12В\nЦена: 336.69 грн.\nДобавить в корзину</div>'\nScreenshot: file:/home/serhii/Desktop/AutomationProject/automation/build/reports/tests/1518915537469.0.png\nTimeout: 10 s.\n\tat com.codeborne.selenide.impl.WebElementSource.checkCondition(WebElementSource.java:63)\n\tat com.codeborne.selenide.commands.ShouldNot.shouldNot(ShouldNot.java:36)\n\tat com.codeborne.selenide.commands.ShouldNot.execute(ShouldNot.java:29)\n\tat com.codeborne.selenide.commands.ShouldNot.execute(ShouldNot.java:12)\n\tat com.codeborne.selenide.commands.Commands.execute(Commands.java:140)\n\tat com.codeborne.selenide.impl.SelenideElementProxy.dispatchAndRetry(SelenideElementProxy.java:86)\n\tat com.codeborne.selenide.impl.SelenideElementProxy.invoke(SelenideElementProxy.java:62)\n\tat com.sun.proxy.$Proxy26.shouldNot(Unknown Source)\n\tat ua.com.stolkacha.pageObjects.LampsPage.selectFilter(LampsPage.java:26)\n\tat ua.com.stolkacha.cucumber.steps.LampsManufacStepsDefs.userSelectManufacturerFilterItem(LampsManufacStepsDefs.java:34)\n\tat ✽.When user select Philips filter item(features/stolkacha_lamps_manufacturer_filter.feature:6)\n",
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : true
+  },
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,195 @@
+{
+  "uid" : "e4fc2297691f6b17",
+  "name" : "When user select Philips filter item",
+  "fullName" : "| Philips |.When user select Philips filter item",
+  "historyId" : "37d37bf316ba4a7c772a1703eef41b1",
+  "time" : {
+    "start" : 1519006140187,
+    "stop" : 1519006140187,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : true
+  },
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "| Philips |"
+  }, {
+    "name" : "testMethod",
+    "value" : "When user select Philips filter item"
+  }, {
+    "name" : "suite",
+    "value" : "| Philips |"
+  }, {
+    "name" : "host",
+    "value" : "serhii-HP-ProBook-4540s"
+  }, {
+    "name" : "thread",
+    "value" : "12785@serhii-HP-ProBook-4540s.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "60569c4b42d7af19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518919235781,
+        "stop" : 1518919235781,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "957a28c57cf8ee58",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518915868061,
+        "stop" : 1518915868061,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ef6533790d42a9ef",
+      "status" : "failed",
+      "statusDetails" : "Element should not exist {.row:nth-child(1) .col-md-4:nth-child(1)}\nElement: '<div class=\"col-md-4\">Автомобильная лампа PHILIPS CrystalVision HB3 (9005CVB1)\nНазначение: фары головного света| Вид лампы: галогеновая| Место установки: ближний свет, дальний свет, противотуманные фары| Цоколь: P20d| Напряжение: 12В\nЦена: 336.69 грн.\nДобавить в корзину</div>'",
+      "time" : {
+        "start" : 1518915537658,
+        "stop" : 1518915537667,
+        "duration" : 9
+      }
+    }, {
+      "uid" : "353a3af9582569a7",
+      "status" : "failed",
+      "statusDetails" : "Element should hidden {.row:nth-child(1) .col-md-4:nth-child(1)}\nElement: '<div class=\"col-md-4\">Автомобильная лампа PHILIPS CrystalVision HB3 (9005CVB1)\nНазначение: фары головного света| Вид лампы: галогеновая| Место установки: ближний свет, дальний свет, противотуманные фары| Цоколь: P20d| Напряжение: 12В\nЦена: 336.69 грн.\nДобавить в корзину</div>'",
+      "time" : {
+        "start" : 1518915425703,
+        "stop" : 1518915425711,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "82a44b624903aea0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518915174880,
+        "stop" : 1518915174880,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ba9e5cf8f521230f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518914997879,
+        "stop" : 1518914997879,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f3d5e8288242dc6d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518914910623,
+        "stop" : 1518914910623,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c52727a42d2d4dc1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518914142924,
+        "stop" : 1518914142924,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d8b094cc2b3d601e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518913892920,
+        "stop" : 1518913892920,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1bdabce660b963b3",
+      "status" : "failed",
+      "statusDetails" : "Element should be exact text '' {.product_title[0]}\nElement: '<p class=\"product_title\">Автомобильная лампа PHILIPS CrystalVision HB3 (9005CVB1)</p>'",
+      "time" : {
+        "start" : 1518913671440,
+        "stop" : 1518913671475,
+        "duration" : 35
+      }
+    }, {
+      "uid" : "8f8aa912060a2ac0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518913033310,
+        "stop" : 1518913033310,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "7b55a707b0b79fff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518912080383,
+        "stop" : 1518912080383,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c56931de25e372f3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518911778395,
+        "stop" : 1518911778396,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "52d2be1df9d4e50d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518911664746,
+        "stop" : 1518911664747,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "c6f7fa0ea69e1744",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518911022418,
+        "stop" : 1518911022419,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "d570d164b0a3074c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518910650628,
+        "stop" : 1518910650628,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "77b2a602733f43d8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518910300777,
+        "stop" : 1518910300777,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e4fc2297691f6b17.json",
+  "statusDetailsSafe" : {
+    "flaky" : true
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "parameterValues" : [ ]
+}
