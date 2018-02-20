@@ -1,0 +1,42 @@
+{
+  "coord": {
+    "lon": 30.52,
+    "lat": 50.45
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 271.17,
+    "pressure": 1023,
+    "humidity": 73,
+    "temp_min": 270.15,
+    "temp_max": 272.15
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 4,
+    "deg": 280
+  },
+  "clouds": {
+    "all": 75
+  },
+  "dt": 1519077600,
+  "sys": {
+    "type": 1,
+    "id": 7358,
+    "message": 0.0311,
+    "country": "UA",
+    "sunrise": 1519016427,
+    "sunset": 1519053819
+  },
+  "id": 703448,
+  "name": "Kyiv",
+  "cod": 200
+}

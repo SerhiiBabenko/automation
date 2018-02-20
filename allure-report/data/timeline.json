@@ -3,10 +3,410 @@
   "children" : [ {
     "name" : "serhii-HP-ProBook-4540s",
     "children" : [ {
+      "name" : "12785@serhii-HP-ProBook-4540s.main(1)",
+      "children" : [ {
+        "name" : "Given a user is on the Lamps page",
+        "uid" : "146a93792d82d4c0",
+        "parentUid" : "7ca7300989c6fe38f1ac3825d37ca3db",
+        "status" : "passed",
+        "time" : {
+          "start" : 1519006146480,
+          "stop" : 1519006146480,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "When user select Narva filter item",
+        "uid" : "ddb94a9f9c76f55",
+        "parentUid" : "7ca7300989c6fe38f1ac3825d37ca3db",
+        "status" : "passed",
+        "time" : {
+          "start" : 1519006148254,
+          "stop" : 1519006148254,
+          "duration" : 0
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "Then all product titles correspond to the selected manufacturer",
+        "uid" : "8e753f1a95d5bdad",
+        "parentUid" : "7ca7300989c6fe38f1ac3825d37ca3db",
+        "status" : "passed",
+        "time" : {
+          "start" : 1519006143027,
+          "stop" : 1519006143027,
+          "duration" : 0
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "When user select Solar filter item",
+        "uid" : "9aee616ac4f11ab3",
+        "parentUid" : "7ca7300989c6fe38f1ac3825d37ca3db",
+        "status" : "passed",
+        "time" : {
+          "start" : 1519006165142,
+          "stop" : 1519006165142,
+          "duration" : 0
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "When user select Brevia filter item",
+        "uid" : "e06437dabf62ab26",
+        "parentUid" : "7ca7300989c6fe38f1ac3825d37ca3db",
+        "status" : "passed",
+        "time" : {
+          "start" : 1519006155272,
+          "stop" : 1519006155272,
+          "duration" : 0
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "Then all product titles correspond to the selected manufacturer",
+        "uid" : "cb72ea1ee36548d0",
+        "parentUid" : "7ca7300989c6fe38f1ac3825d37ca3db",
+        "status" : "passed",
+        "time" : {
+          "start" : 1519006161482,
+          "stop" : 1519006161482,
+          "duration" : 0
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "When user select Philips filter item",
+        "uid" : "e4fc2297691f6b17",
+        "parentUid" : "7ca7300989c6fe38f1ac3825d37ca3db",
+        "status" : "passed",
+        "time" : {
+          "start" : 1519006140187,
+          "stop" : 1519006140187,
+          "duration" : 0
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "Given a user is on the Lamps page",
+        "uid" : "1f63a95d592ec346",
+        "parentUid" : "7ca7300989c6fe38f1ac3825d37ca3db",
+        "status" : "passed",
+        "time" : {
+          "start" : 1519006154388,
+          "stop" : 1519006154388,
+          "duration" : 0
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "Given a user is on the Lamps page",
+        "uid" : "efeb68ed503414a4",
+        "parentUid" : "7ca7300989c6fe38f1ac3825d37ca3db",
+        "status" : "passed",
+        "time" : {
+          "start" : 1519006138565,
+          "stop" : 1519006138570,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Given a user is on the Lamps page",
+        "uid" : "99400cf4296d624d",
+        "parentUid" : "7ca7300989c6fe38f1ac3825d37ca3db",
+        "status" : "passed",
+        "time" : {
+          "start" : 1519006163423,
+          "stop" : 1519006163423,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Then all product titles correspond to the selected manufacturer",
+        "uid" : "3ebfc9a15c9bdfa5",
+        "parentUid" : "7ca7300989c6fe38f1ac3825d37ca3db",
+        "status" : "passed",
+        "time" : {
+          "start" : 1519006167477,
+          "stop" : 1519006167477,
+          "duration" : 0
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "Then all product titles correspond to the selected manufacturer",
+        "uid" : "90879d74303042f0",
+        "parentUid" : "7ca7300989c6fe38f1ac3825d37ca3db",
+        "status" : "passed",
+        "time" : {
+          "start" : 1519006152603,
+          "stop" : 1519006152603,
+          "duration" : 0
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7ca7300989c6fe38f1ac3825d37ca3db"
+    }, {
+      "name" : "1000@serhii-HP-ProBook-4540s.main(1)",
+      "children" : [ {
+        "name" : "registrationWithEmtyFields[1]",
+        "uid" : "e2a13c1b6e924f38",
+        "parentUid" : "81d113d805ce8fee49a9f1f56f2cb879",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518909950754,
+          "stop" : 1518909956572,
+          "duration" : 5818
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "registrationWithEmtyFields[6]",
+        "uid" : "5e840b94f1ec441d",
+        "parentUid" : "81d113d805ce8fee49a9f1f56f2cb879",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518909979019,
+          "stop" : 1518909985088,
+          "duration" : 6069
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "registrationWithEmtyFields[3]",
+        "uid" : "32ae31fecd90fbf4",
+        "parentUid" : "81d113d805ce8fee49a9f1f56f2cb879",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518909963253,
+          "stop" : 1518909968456,
+          "duration" : 5203
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "registrationWithEmtyFields[5]",
+        "uid" : "d0203229626f72bb",
+        "parentUid" : "81d113d805ce8fee49a9f1f56f2cb879",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518909973793,
+          "stop" : 1518909979017,
+          "duration" : 5224
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "registrationWithEmtyFields[8]",
+        "uid" : "272b86244020127a",
+        "parentUid" : "81d113d805ce8fee49a9f1f56f2cb879",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518909991180,
+          "stop" : 1518909996334,
+          "duration" : 5154
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "registrationWithEmtyFields[2]",
+        "uid" : "da99e46c3278cbda",
+        "parentUid" : "81d113d805ce8fee49a9f1f56f2cb879",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518909956576,
+          "stop" : 1518909963250,
+          "duration" : 6674
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "registrationWithEmtyFields[0]",
+        "uid" : "557c9c54c8e141b1",
+        "parentUid" : "81d113d805ce8fee49a9f1f56f2cb879",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518909933186,
+          "stop" : 1518909950521,
+          "duration" : 17335
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "registrationWithEmtyFields[7]",
+        "uid" : "fbec7a3dd0e35fee",
+        "parentUid" : "81d113d805ce8fee49a9f1f56f2cb879",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518909985090,
+          "stop" : 1518909991176,
+          "duration" : 6086
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "registrationWithEmtyFields[4]",
+        "uid" : "823024c26357dd96",
+        "parentUid" : "81d113d805ce8fee49a9f1f56f2cb879",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518909968460,
+          "stop" : 1518909973789,
+          "duration" : 5329
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "registrationWithEmtyFields[9]",
+        "uid" : "21dcc6a27c34d08c",
+        "parentUid" : "81d113d805ce8fee49a9f1f56f2cb879",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518909996337,
+          "stop" : 1518910001457,
+          "duration" : 5120
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "81d113d805ce8fee49a9f1f56f2cb879"
+    }, {
+      "name" : "20225@serhii-HP-ProBook-4540s.main(1)",
+      "children" : [ {
+        "name" : "shouldGetWeatherByZipCode",
+        "uid" : "f376e911c72224a7",
+        "parentUid" : "6ae5866785f05880c3c25ff09e017a2a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1519090885120,
+          "stop" : 1519090885238,
+          "duration" : 118
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldGetWeatherByCoordinates",
+        "uid" : "f7bc37d753e8bc9f",
+        "parentUid" : "6ae5866785f05880c3c25ff09e017a2a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1519090884786,
+          "stop" : 1519090884957,
+          "duration" : 171
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldGetWeatherByCity",
+        "uid" : "f00c59e942ee9f69",
+        "parentUid" : "6ae5866785f05880c3c25ff09e017a2a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1519090884995,
+          "stop" : 1519090885119,
+          "duration" : 124
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldGetWeatherByCityAndCountryCode",
+        "uid" : "fe61302f897d228b",
+        "parentUid" : "6ae5866785f05880c3c25ff09e017a2a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1519090880821,
+          "stop" : 1519090884459,
+          "duration" : 3638
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldNotGetNonExistingCity",
+        "uid" : "698aae5966394eea",
+        "parentUid" : "6ae5866785f05880c3c25ff09e017a2a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1519090884626,
+          "stop" : 1519090884780,
+          "duration" : 154
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6ae5866785f05880c3c25ff09e017a2a"
+    }, {
+      "name" : "17042@serhii-HP-ProBook-4540s.main(1)",
+      "children" : [ {
+        "name" : "shouldGetWeatherByCoordinates",
+        "uid" : "5ba5befd2e121840",
+        "parentUid" : "e783d7c8d748328ba0d776b2d7ddca62",
+        "status" : "broken",
+        "time" : {
+          "start" : 1519088944711,
+          "stop" : 1519088944711,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldGetWeatherByCityAndCountryCode",
+        "uid" : "17d677cec1a5c91e",
+        "parentUid" : "e783d7c8d748328ba0d776b2d7ddca62",
+        "status" : "broken",
+        "time" : {
+          "start" : 1519088944400,
+          "stop" : 1519088944502,
+          "duration" : 102
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldGetWeatherByCity",
+        "uid" : "688fb555fe809855",
+        "parentUid" : "e783d7c8d748328ba0d776b2d7ddca62",
+        "status" : "broken",
+        "time" : {
+          "start" : 1519088944714,
+          "stop" : 1519088944714,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldNotGetNonExistingCity",
+        "uid" : "a73cf543d7b8e304",
+        "parentUid" : "e783d7c8d748328ba0d776b2d7ddca62",
+        "status" : "broken",
+        "time" : {
+          "start" : 1519088944708,
+          "stop" : 1519088944708,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldGetWeatherByZipCode",
+        "uid" : "67899ca9d9ae4c15",
+        "parentUid" : "e783d7c8d748328ba0d776b2d7ddca62",
+        "status" : "broken",
+        "time" : {
+          "start" : 1519088944717,
+          "stop" : 1519088944718,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e783d7c8d748328ba0d776b2d7ddca62"
+    }, {
       "name" : "7976@serhii-HP-ProBook-4540s.main(1)",
       "children" : [ {
         "name" : "signInWithPasswordOnly",
-        "uid" : "5754f6f06657b9b0",
+        "uid" : "37191dbab191c088",
         "parentUid" : "18f18706ac10ad089b4012311bbecb89",
         "status" : "passed",
         "time" : {
@@ -17,92 +417,8 @@
         "flaky" : false,
         "parameters" : [ ]
       }, {
-        "name" : "registrationWithEmtyFields[5]",
-        "uid" : "74f2c6a8689e5c39",
-        "parentUid" : "18f18706ac10ad089b4012311bbecb89",
-        "status" : "skipped",
-        "time" : {
-          "start" : 1518885111737,
-          "stop" : 1518885111737,
-          "duration" : 0
-        },
-        "flaky" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "registrationWithEmtyFields[0]",
-        "uid" : "4a8bd4884ec11539",
-        "parentUid" : "18f18706ac10ad089b4012311bbecb89",
-        "status" : "skipped",
-        "time" : {
-          "start" : 1518885111570,
-          "stop" : 1518885111575,
-          "duration" : 5
-        },
-        "flaky" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "registrationWithEmtyFields[6]",
-        "uid" : "55cb0bb6e110537f",
-        "parentUid" : "18f18706ac10ad089b4012311bbecb89",
-        "status" : "skipped",
-        "time" : {
-          "start" : 1518885111739,
-          "stop" : 1518885111739,
-          "duration" : 0
-        },
-        "flaky" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "signInWithValidCredentials",
-        "uid" : "8300ca5019a201f6",
-        "parentUid" : "18f18706ac10ad089b4012311bbecb89",
-        "status" : "passed",
-        "time" : {
-          "start" : 1518885134398,
-          "stop" : 1518885140414,
-          "duration" : 6016
-        },
-        "flaky" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "registrationWithEmtyFields[7]",
-        "uid" : "8b043ac52b30b7bf",
-        "parentUid" : "18f18706ac10ad089b4012311bbecb89",
-        "status" : "skipped",
-        "time" : {
-          "start" : 1518885111741,
-          "stop" : 1518885111741,
-          "duration" : 0
-        },
-        "flaky" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "registrationWithEmtyFields[4]",
-        "uid" : "be5845990fcf8fd7",
-        "parentUid" : "18f18706ac10ad089b4012311bbecb89",
-        "status" : "skipped",
-        "time" : {
-          "start" : 1518885111734,
-          "stop" : 1518885111734,
-          "duration" : 0
-        },
-        "flaky" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "registrationWithEmtyFields[9]",
-        "uid" : "b99c75ba4c8d71b6",
-        "parentUid" : "18f18706ac10ad089b4012311bbecb89",
-        "status" : "skipped",
-        "time" : {
-          "start" : 1518885111745,
-          "stop" : 1518885111745,
-          "duration" : 0
-        },
-        "flaky" : false,
-        "parameters" : [ ]
-      }, {
         "name" : "signInWithInvalidCredentials",
-        "uid" : "2c39e25ef832d928",
+        "uid" : "d7963ccfdca633a2",
         "parentUid" : "18f18706ac10ad089b4012311bbecb89",
         "status" : "passed",
         "time" : {
@@ -113,32 +429,20 @@
         "flaky" : false,
         "parameters" : [ ]
       }, {
-        "name" : "signInWithEmptyCredentials",
-        "uid" : "55e23dc3541866cb",
+        "name" : "signInWithValidCredentials",
+        "uid" : "4e44c0e833197f43",
         "parentUid" : "18f18706ac10ad089b4012311bbecb89",
         "status" : "passed",
         "time" : {
-          "start" : 1518885130748,
-          "stop" : 1518885134395,
-          "duration" : 3647
-        },
-        "flaky" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "registrationWithEmtyFields[3]",
-        "uid" : "76971f6f554685e7",
-        "parentUid" : "18f18706ac10ad089b4012311bbecb89",
-        "status" : "skipped",
-        "time" : {
-          "start" : 1518885111731,
-          "stop" : 1518885111731,
-          "duration" : 0
+          "start" : 1518885134398,
+          "stop" : 1518885140414,
+          "duration" : 6016
         },
         "flaky" : false,
         "parameters" : [ ]
       }, {
         "name" : "signInWithEmailOnly",
-        "uid" : "28a69b0ffd08c8ff",
+        "uid" : "866f1522402c53c5",
         "parentUid" : "18f18706ac10ad089b4012311bbecb89",
         "status" : "passed",
         "time" : {
@@ -149,43 +453,47 @@
         "flaky" : false,
         "parameters" : [ ]
       }, {
-        "name" : "registrationWithEmtyFields[1]",
-        "uid" : "ac0d564aa08888b0",
+        "name" : "signInWithEmptyCredentials",
+        "uid" : "a419146d57921699",
         "parentUid" : "18f18706ac10ad089b4012311bbecb89",
-        "status" : "skipped",
+        "status" : "passed",
         "time" : {
-          "start" : 1518885111726,
-          "stop" : 1518885111726,
-          "duration" : 0
-        },
-        "flaky" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "registrationWithEmtyFields[8]",
-        "uid" : "16e0a06a86b2b76c",
-        "parentUid" : "18f18706ac10ad089b4012311bbecb89",
-        "status" : "skipped",
-        "time" : {
-          "start" : 1518885111743,
-          "stop" : 1518885111743,
-          "duration" : 0
-        },
-        "flaky" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "registrationWithEmtyFields[2]",
-        "uid" : "33e84825f1c79341",
-        "parentUid" : "18f18706ac10ad089b4012311bbecb89",
-        "status" : "skipped",
-        "time" : {
-          "start" : 1518885111729,
-          "stop" : 1518885111729,
-          "duration" : 0
+          "start" : 1518885130748,
+          "stop" : 1518885134395,
+          "duration" : 3647
         },
         "flaky" : false,
         "parameters" : [ ]
       } ],
       "uid" : "18f18706ac10ad089b4012311bbecb89"
+    }, {
+      "name" : "12679@serhii-HP-ProBook-4540s.main(1)",
+      "children" : [ {
+        "name" : "ua.com.stolkacha.registration.RegistrationWithEmptyFielsTest",
+        "uid" : "8f2abcb93324b121",
+        "parentUid" : "f29972c8f48b35a3de27e8d5c7c35411",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1519006096564,
+          "stop" : 1519006096568,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "ua.com.stolkacha.SignInTest",
+        "uid" : "2e181db1fd197a71",
+        "parentUid" : "f29972c8f48b35a3de27e8d5c7c35411",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1519006096720,
+          "stop" : 1519006096720,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f29972c8f48b35a3de27e8d5c7c35411"
     } ],
     "uid" : "4be8d76a511eeab524eb5d1e043f570f"
   } ],

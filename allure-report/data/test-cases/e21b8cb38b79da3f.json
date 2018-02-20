@@ -1,0 +1,53 @@
+{
+  "uid" : "e21b8cb38b79da3f",
+  "name" : "Then all product titles correspond to the selected manufacturer",
+  "fullName" : "| Solar |.Then all product titles correspond to the selected manufacturer",
+  "historyId" : "4909c012c93dcb70ad15e53b866d44c2",
+  "time" : {
+    "start" : 1518919259156,
+    "stop" : 1518919259156,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "| Solar |"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then all product titles correspond to the selected manufacturer"
+  }, {
+    "name" : "suite",
+    "value" : "| Solar |"
+  }, {
+    "name" : "host",
+    "value" : "serhii-HP-ProBook-4540s"
+  }, {
+    "name" : "thread",
+    "value" : "11959@serhii-HP-ProBook-4540s.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "extra" : {
+    "tags" : [ ]
+  },
+  "source" : "e21b8cb38b79da3f.json",
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "parameterValues" : [ ]
+}

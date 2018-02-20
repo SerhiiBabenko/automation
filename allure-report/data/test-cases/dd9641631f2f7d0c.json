@@ -1,0 +1,53 @@
+{
+  "uid" : "dd9641631f2f7d0c",
+  "name" : "Given a user is on the Lamps page",
+  "fullName" : "| Solar |.Given a user is on the Lamps page",
+  "historyId" : "1703a516a8743aebb72d532ac3f0964c",
+  "time" : {
+    "start" : 1518919255028,
+    "stop" : 1518919255028,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "| Solar |"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given a user is on the Lamps page"
+  }, {
+    "name" : "suite",
+    "value" : "| Solar |"
+  }, {
+    "name" : "host",
+    "value" : "serhii-HP-ProBook-4540s"
+  }, {
+    "name" : "thread",
+    "value" : "11959@serhii-HP-ProBook-4540s.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "extra" : {
+    "tags" : [ ]
+  },
+  "source" : "dd9641631f2f7d0c.json",
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "parameterValues" : [ ]
+}

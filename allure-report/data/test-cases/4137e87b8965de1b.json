@@ -1,0 +1,57 @@
+{
+  "uid" : "4137e87b8965de1b",
+  "name" : "Then all product titles correspond to the selected manufacturer",
+  "fullName" : "| Solar |.Then all product titles correspond to the selected manufacturer",
+  "historyId" : "4909c012c93dcb70ad15e53b866d44c2",
+  "time" : {
+    "start" : 1518911841628,
+    "stop" : 1518911841629,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "statusDetails" : {
+    "message" : "Element should be exact text '' {.product_title[0]}\nElement: '<p class=\"product_title\">Автомобильная лампа SOLAR LED S25 BA15S 1SMD + Lens 12В, white (LS239)</p>'",
+    "trace" : "Element should be exact text '' {.product_title[0]}\nElement: '<p class=\"product_title\">Автомобильная лампа SOLAR LED S25 BA15S 1SMD + Lens 12В, white (LS239)</p>'\nScreenshot: file:/home/serhii/Desktop/AutomationProject/automation/build/reports/tests/1518911841365.2.png\nTimeout: 10 s.\n\tat com.codeborne.selenide.impl.WebElementSource.checkCondition(WebElementSource.java:66)\n\tat com.codeborne.selenide.commands.Should.should(Should.java:35)\n\tat com.codeborne.selenide.commands.Should.execute(Should.java:29)\n\tat com.codeborne.selenide.commands.Should.execute(Should.java:12)\n\tat com.codeborne.selenide.commands.Commands.execute(Commands.java:140)\n\tat com.codeborne.selenide.impl.SelenideElementProxy.dispatchAndRetry(SelenideElementProxy.java:86)\n\tat com.codeborne.selenide.impl.SelenideElementProxy.invoke(SelenideElementProxy.java:62)\n\tat com.sun.proxy.$Proxy26.shouldBe(Unknown Source)\n\tat ua.com.stolkacha.pageObjects.LampsPage.lambda$getAllProductTitles$0(LampsPage.java:30)\n\tat java.util.Iterator.forEachRemaining(Iterator.java:116)\n\tat java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)\n\tat java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:580)\n\tat ua.com.stolkacha.pageObjects.LampsPage.getAllProductTitles(LampsPage.java:30)\n\tat ua.com.stolkacha.cucumber.steps.LampsManufacStepsDefs.allTitesCorrespondToTheSelectedFilterItem(LampsManufacStepsDefs.java:39)\n\tat ✽.Then all product titles correspond to the selected manufacturer(features/stolkacha_lamps_manufacturer_filter.feature:7)\n",
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "| Solar |"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then all product titles correspond to the selected manufacturer"
+  }, {
+    "name" : "suite",
+    "value" : "| Solar |"
+  }, {
+    "name" : "host",
+    "value" : "serhii-HP-ProBook-4540s"
+  }, {
+    "name" : "thread",
+    "value" : "5178@serhii-HP-ProBook-4540s.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "extra" : {
+    "tags" : [ ]
+  },
+  "source" : "4137e87b8965de1b.json",
+  "statusDetailsSafe" : {
+    "message" : "Element should be exact text '' {.product_title[0]}\nElement: '<p class=\"product_title\">Автомобильная лампа SOLAR LED S25 BA15S 1SMD + Lens 12В, white (LS239)</p>'",
+    "trace" : "Element should be exact text '' {.product_title[0]}\nElement: '<p class=\"product_title\">Автомобильная лампа SOLAR LED S25 BA15S 1SMD + Lens 12В, white (LS239)</p>'\nScreenshot: file:/home/serhii/Desktop/AutomationProject/automation/build/reports/tests/1518911841365.2.png\nTimeout: 10 s.\n\tat com.codeborne.selenide.impl.WebElementSource.checkCondition(WebElementSource.java:66)\n\tat com.codeborne.selenide.commands.Should.should(Should.java:35)\n\tat com.codeborne.selenide.commands.Should.execute(Should.java:29)\n\tat com.codeborne.selenide.commands.Should.execute(Should.java:12)\n\tat com.codeborne.selenide.commands.Commands.execute(Commands.java:140)\n\tat com.codeborne.selenide.impl.SelenideElementProxy.dispatchAndRetry(SelenideElementProxy.java:86)\n\tat com.codeborne.selenide.impl.SelenideElementProxy.invoke(SelenideElementProxy.java:62)\n\tat com.sun.proxy.$Proxy26.shouldBe(Unknown Source)\n\tat ua.com.stolkacha.pageObjects.LampsPage.lambda$getAllProductTitles$0(LampsPage.java:30)\n\tat java.util.Iterator.forEachRemaining(Iterator.java:116)\n\tat java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)\n\tat java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:580)\n\tat ua.com.stolkacha.pageObjects.LampsPage.getAllProductTitles(LampsPage.java:30)\n\tat ua.com.stolkacha.cucumber.steps.LampsManufacStepsDefs.allTitesCorrespondToTheSelectedFilterItem(LampsManufacStepsDefs.java:39)\n\tat ✽.Then all product titles correspond to the selected manufacturer(features/stolkacha_lamps_manufacturer_filter.feature:7)\n",
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : true
+  },
+  "parameterValues" : [ ]
+}

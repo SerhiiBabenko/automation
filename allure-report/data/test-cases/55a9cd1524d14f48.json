@@ -1,0 +1,57 @@
+{
+  "uid" : "55a9cd1524d14f48",
+  "name" : "Then all product titles correspond to the selected manufacturer",
+  "fullName" : "| Philips |.Then all product titles correspond to the selected manufacturer",
+  "historyId" : "33736938deec8257fe59bd7727d491c4",
+  "time" : {
+    "start" : 1518913033316,
+    "stop" : 1518913033326,
+    "duration" : 10
+  },
+  "status" : "broken",
+  "statusDetails" : {
+    "message" : "java.lang.IllegalMonitorStateException",
+    "trace" : "java.lang.IllegalMonitorStateException\n\tat java.lang.Object.wait(Native Method)\n\tat ua.com.stolkacha.pageObjects.LampsPage.getAllProductTitles(LampsPage.java:30)\n\tat ua.com.stolkacha.cucumber.steps.LampsManufacStepsDefs.allTitesCorrespondToTheSelectedFilterItem(LampsManufacStepsDefs.java:39)\n\tat ✽.Then all product titles correspond to the selected manufacturer(features/stolkacha_lamps_manufacturer_filter.feature:7)\n",
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "| Philips |"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then all product titles correspond to the selected manufacturer"
+  }, {
+    "name" : "suite",
+    "value" : "| Philips |"
+  }, {
+    "name" : "host",
+    "value" : "serhii-HP-ProBook-4540s"
+  }, {
+    "name" : "thread",
+    "value" : "6877@serhii-HP-ProBook-4540s.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "extra" : {
+    "tags" : [ ]
+  },
+  "source" : "55a9cd1524d14f48.json",
+  "statusDetailsSafe" : {
+    "message" : "java.lang.IllegalMonitorStateException",
+    "trace" : "java.lang.IllegalMonitorStateException\n\tat java.lang.Object.wait(Native Method)\n\tat ua.com.stolkacha.pageObjects.LampsPage.getAllProductTitles(LampsPage.java:30)\n\tat ua.com.stolkacha.cucumber.steps.LampsManufacStepsDefs.allTitesCorrespondToTheSelectedFilterItem(LampsManufacStepsDefs.java:39)\n\tat ✽.Then all product titles correspond to the selected manufacturer(features/stolkacha_lamps_manufacturer_filter.feature:7)\n",
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : true
+  },
+  "parameterValues" : [ ]
+}

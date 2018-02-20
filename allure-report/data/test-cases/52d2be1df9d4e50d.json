@@ -1,0 +1,53 @@
+{
+  "uid" : "52d2be1df9d4e50d",
+  "name" : "When user select Philips filter item",
+  "fullName" : "| Philips |.When user select Philips filter item",
+  "historyId" : "37d37bf316ba4a7c772a1703eef41b1",
+  "time" : {
+    "start" : 1518911664746,
+    "stop" : 1518911664747,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "| Philips |"
+  }, {
+    "name" : "testMethod",
+    "value" : "When user select Philips filter item"
+  }, {
+    "name" : "suite",
+    "value" : "| Philips |"
+  }, {
+    "name" : "host",
+    "value" : "serhii-HP-ProBook-4540s"
+  }, {
+    "name" : "thread",
+    "value" : "4702@serhii-HP-ProBook-4540s.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "extra" : {
+    "tags" : [ ]
+  },
+  "source" : "52d2be1df9d4e50d.json",
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "parameterValues" : [ ]
+}

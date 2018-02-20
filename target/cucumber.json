@@ -1,0 +1,256 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 10,
+        "name": "select Philips filter",
+        "description": "",
+        "id": "lamps-manufacturer-filter;select-\u003cmanufacturer\u003e-filter;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 9897120822,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "a user is on the Lamps page",
+            "match": {
+              "location": "LampsManufacStepsDefs.aUserIsOnTheLampPage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2291199436,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user select Philips filter item",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Philips",
+                  "offset": 12
+                }
+              ],
+              "location": "LampsManufacStepsDefs.userSelectManufacturerFilterItem(Manufacturer)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3347796021,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "all product titles correspond to the selected manufacturer",
+            "match": {
+              "location": "LampsManufacStepsDefs.allTitesCorrespondToTheSelectedFilterItem()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@regression"
+          }
+        ]
+      },
+      {
+        "line": 11,
+        "name": "select Narva filter",
+        "description": "",
+        "id": "lamps-manufacturer-filter;select-\u003cmanufacturer\u003e-filter;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2061744301,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "a user is on the Lamps page",
+            "match": {
+              "location": "LampsManufacStepsDefs.aUserIsOnTheLampPage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2140654471,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user select Narva filter item",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Narva",
+                  "offset": 12
+                }
+              ],
+              "location": "LampsManufacStepsDefs.userSelectManufacturerFilterItem(Manufacturer)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3875177300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "all product titles correspond to the selected manufacturer",
+            "match": {
+              "location": "LampsManufacStepsDefs.allTitesCorrespondToTheSelectedFilterItem()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@regression"
+          }
+        ]
+      },
+      {
+        "line": 12,
+        "name": "select Brevia filter",
+        "description": "",
+        "id": "lamps-manufacturer-filter;select-\u003cmanufacturer\u003e-filter;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1916249096,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "a user is on the Lamps page",
+            "match": {
+              "location": "LampsManufacStepsDefs.aUserIsOnTheLampPage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2119960921,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user select Brevia filter item",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Brevia",
+                  "offset": 12
+                }
+              ],
+              "location": "LampsManufacStepsDefs.userSelectManufacturerFilterItem(Manufacturer)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6638920644,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "all product titles correspond to the selected manufacturer",
+            "match": {
+              "location": "LampsManufacStepsDefs.allTitesCorrespondToTheSelectedFilterItem()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@regression"
+          }
+        ]
+      },
+      {
+        "line": 13,
+        "name": "select Solar filter",
+        "description": "",
+        "id": "lamps-manufacturer-filter;select-\u003cmanufacturer\u003e-filter;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1210722812,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "a user is on the Lamps page",
+            "match": {
+              "location": "LampsManufacStepsDefs.aUserIsOnTheLampPage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2130716929,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user select Solar filter item",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Solar",
+                  "offset": 12
+                }
+              ],
+              "location": "LampsManufacStepsDefs.userSelectManufacturerFilterItem(Manufacturer)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2090690816,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "all product titles correspond to the selected manufacturer",
+            "match": {
+              "location": "LampsManufacStepsDefs.allTitesCorrespondToTheSelectedFilterItem()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "Lamps Manufacturer Filter",
+    "description": "",
+    "id": "lamps-manufacturer-filter",
+    "keyword": "Feature",
+    "uri": "features/stolkacha_lamps_manufacturer_filter.feature"
+  }
+]

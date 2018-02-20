@@ -1,0 +1,53 @@
+{
+  "uid" : "fa2cebf34ef12db6",
+  "name" : "Given a user is on the Lamps page",
+  "fullName" : "| Philips |.Given a user is on the Lamps page",
+  "historyId" : "6899edcd903a4f9bdaf295a293e425c4",
+  "time" : {
+    "start" : 1518912079987,
+    "stop" : 1518912079993,
+    "duration" : 6
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "| Philips |"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given a user is on the Lamps page"
+  }, {
+    "name" : "suite",
+    "value" : "| Philips |"
+  }, {
+    "name" : "host",
+    "value" : "serhii-HP-ProBook-4540s"
+  }, {
+    "name" : "thread",
+    "value" : "5986@serhii-HP-ProBook-4540s.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "extra" : {
+    "tags" : [ ]
+  },
+  "source" : "fa2cebf34ef12db6.json",
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ua.com.stolkacha.api.WeatherApiTestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.847 s - in ua.com.stolkacha.api.WeatherApiTestSuite

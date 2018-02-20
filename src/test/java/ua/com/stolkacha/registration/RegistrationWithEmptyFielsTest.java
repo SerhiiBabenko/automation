@@ -1,7 +1,5 @@
 package ua.com.stolkacha.registration;
 
-import io.qameta.allure.junit4.DisplayName;
-import io.qameta.allure.junit4.Tag;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Ignore;
@@ -9,9 +7,9 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 import ua.com.stolkacha.BaseTest;
-import ua.com.stolkacha.pages.CreateCustomerAccountPage;
-import ua.com.stolkacha.pages.HomePage;
-import ua.com.stolkacha.pages.LoginPage;
+import ua.com.stolkacha.pageObjects.CreateCustomerAccountPage;
+import ua.com.stolkacha.pageObjects.HomePage;
+import ua.com.stolkacha.pageObjects.LoginPage;
 import ua.com.stolkacha.utils.registrationUtils.TestData;
 
 
@@ -25,7 +23,7 @@ import static org.junit.runners.Parameterized.Parameters;
 import static ua.com.stolkacha.utils.ReadPropertiesUtil.getProperty;
 import static ua.com.stolkacha.utils.registrationUtils.RegistrationDataUtil.getRegistrationData;
 
-
+@Ignore
 @RunWith(Parameterized.class)
 public class RegistrationWithEmptyFielsTest extends BaseTest {
 

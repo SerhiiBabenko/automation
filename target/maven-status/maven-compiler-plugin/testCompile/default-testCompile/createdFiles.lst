@@ -1,4 +1,8 @@
-ua/com/stolkacha/registration/PositiveRegistrationTest.class
-ua/com/stolkacha/SignInTest.class
+ua/com/stolkacha/signin/SignInTest.class
 ua/com/stolkacha/BaseTest.class
 ua/com/stolkacha/registration/RegistrationWithEmptyFielsTest.class
+ua/com/stolkacha/api/WeatherApiTest.class
+ua/com/stolkacha/api/WeatherApiTestSuite.class
+ua/com/stolkacha/api/BaseTest.class
+ua/com/stolkacha/cucumber/steps/LampsManufacStepsDefs.class
+ua/com/stolkacha/cucumber/CucumberSuite.class

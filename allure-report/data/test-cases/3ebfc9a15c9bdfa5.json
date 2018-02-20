@@ -1,0 +1,207 @@
+{
+  "uid" : "3ebfc9a15c9bdfa5",
+  "name" : "Then all product titles correspond to the selected manufacturer",
+  "fullName" : "| Solar |.Then all product titles correspond to the selected manufacturer",
+  "historyId" : "4909c012c93dcb70ad15e53b866d44c2",
+  "time" : {
+    "start" : 1519006167477,
+    "stop" : 1519006167477,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : true
+  },
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "| Solar |"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then all product titles correspond to the selected manufacturer"
+  }, {
+    "name" : "suite",
+    "value" : "| Solar |"
+  }, {
+    "name" : "host",
+    "value" : "serhii-HP-ProBook-4540s"
+  }, {
+    "name" : "thread",
+    "value" : "12785@serhii-HP-ProBook-4540s.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e21b8cb38b79da3f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518919259156,
+        "stop" : 1518919259156,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "685248e43ab2f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518915884771,
+        "stop" : 1518915884772,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "99308a1cbc3ba556",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored (without reason)!",
+      "time" : {
+        "start" : 1518915575483,
+        "stop" : 1518915575483,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a92016cd49cab0a9",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored (without reason)!",
+      "time" : {
+        "start" : 1518915462612,
+        "stop" : 1518915462612,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a895b394262e7e58",
+      "status" : "failed",
+      "statusDetails" : "Title does not correspond to selected filter; Title is: Автомобильная лампа PHILIPS Festoon T10.5x38, 10шт. (12854CP)",
+      "time" : {
+        "start" : 1518915183962,
+        "stop" : 1518915183962,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "bb2e1459002db3af",
+      "status" : "failed",
+      "statusDetails" : "Title does not correspond to selected filter; Title is: Автомобильная лампа PHILIPS Festoon T10.5x38, 10шт. (12854CP)",
+      "time" : {
+        "start" : 1518915007933,
+        "stop" : 1518915007934,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "f77053729e1e1dad",
+      "status" : "failed",
+      "statusDetails" : "Title does not correspond to selected filter; Title is: Автомобильная лампа PHILIPS Festoon T10.5x38, 10шт. (12854CP)",
+      "time" : {
+        "start" : 1518914919952,
+        "stop" : 1518914919953,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "57f72cd0482e0c00",
+      "status" : "failed",
+      "statusDetails" : "Title does not correspond to selected filter; Title is: Автомобильная лампа PHILIPS Festoon T10.5x38, 10шт. (12854CP)",
+      "time" : {
+        "start" : 1518914416902,
+        "stop" : 1518914416903,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "9b6a8ab505a48403",
+      "status" : "failed",
+      "statusDetails" : "Title does not correspond to selected filter; Title is: Автомобильная лампа PHILIPS Festoon T10.5x38, 10шт. (12854CP)",
+      "time" : {
+        "start" : 1518913903264,
+        "stop" : 1518913903265,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "57caa6df4918c691",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored (without reason)!",
+      "time" : {
+        "start" : 1518913717186,
+        "stop" : 1518913717186,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "60a36982b4df5786",
+      "status" : "broken",
+      "statusDetails" : "java.lang.IllegalMonitorStateException",
+      "time" : {
+        "start" : 1518913039781,
+        "stop" : 1518913039781,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f95fc56bba3490c2",
+      "status" : "failed",
+      "statusDetails" : "Element should be exact text '' {.product_title[0]}\nElement: '<p class=\"product_title\">Автомобильная лампа SOLAR R5W 24V (2454)</p>'",
+      "time" : {
+        "start" : 1518912130793,
+        "stop" : 1518912130794,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "4137e87b8965de1b",
+      "status" : "failed",
+      "statusDetails" : "Element should be exact text '' {.product_title[0]}\nElement: '<p class=\"product_title\">Автомобильная лампа SOLAR LED S25 BA15S 1SMD + Lens 12В, white (LS239)</p>'",
+      "time" : {
+        "start" : 1518911841628,
+        "stop" : 1518911841629,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "40ab3193c5e7c91f",
+      "status" : "failed",
+      "statusDetails" : "Title does not correspond to selected filter; Title is: Автомобильная лампа PHILIPS Festoon T10.5x38, 10шт. (12854CP)",
+      "time" : {
+        "start" : 1518911677067,
+        "stop" : 1518911677067,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b5acab336183bbaf",
+      "status" : "failed",
+      "statusDetails" : "Title does not correspond to selected filter; Title is: Автомобильная лампа PHILIPS Festoon T10.5x38, 10шт. (12854CP)",
+      "time" : {
+        "start" : 1518911031812,
+        "stop" : 1518911031813,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "ebbe82e0fc0fdbc2",
+      "status" : "failed",
+      "statusDetails" : "Title does not correspond to selected filter; Title is: Автомобильная лампа PHILIPS Festoon T10.5x38, 10шт. (12854CP)",
+      "time" : {
+        "start" : 1518910660453,
+        "stop" : 1518910660454,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "870bb8945d3d0e4d",
+      "status" : "failed",
+      "statusDetails" : "Title does not correspond to selected filter",
+      "time" : {
+        "start" : 1518910311449,
+        "stop" : 1518910311450,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3ebfc9a15c9bdfa5.json",
+  "statusDetailsSafe" : {
+    "flaky" : true
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "parameterValues" : [ ]
+}

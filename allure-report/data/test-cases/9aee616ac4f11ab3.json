@@ -1,0 +1,195 @@
+{
+  "uid" : "9aee616ac4f11ab3",
+  "name" : "When user select Solar filter item",
+  "fullName" : "| Solar |.When user select Solar filter item",
+  "historyId" : "d5285513abb11f91bad3ea3d41950c5d",
+  "time" : {
+    "start" : 1519006165142,
+    "stop" : 1519006165142,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : true
+  },
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "| Solar |"
+  }, {
+    "name" : "testMethod",
+    "value" : "When user select Solar filter item"
+  }, {
+    "name" : "suite",
+    "value" : "| Solar |"
+  }, {
+    "name" : "host",
+    "value" : "serhii-HP-ProBook-4540s"
+  }, {
+    "name" : "thread",
+    "value" : "12785@serhii-HP-ProBook-4540s.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c80fd0a1167bd3d2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518919256790,
+        "stop" : 1518919256791,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "5ba6078d422fb7fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518915883781,
+        "stop" : 1518915883781,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "7a665788e517d627",
+      "status" : "failed",
+      "statusDetails" : "Element should not exist {.row:nth-child(1) .col-md-4:nth-child(1)}\nElement: '<div class=\"col-md-4\">Автомобильная лампа SOLAR LED S25 BA15S 1SMD + Lens 12В, white (LS239)\nНазначение: вспомогательное освещение| Вид лампы: светодиодная (LED)| Место установки: габаритные огни, стоп-сигнал, задний ход, противотуманные задние фонари| Цоколь: BA15s| Напряжение: 12В\nЦена: 162.11 грн.\nДобавить в корзину</div>'",
+      "time" : {
+        "start" : 1518915575478,
+        "stop" : 1518915575479,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "c260973af68784ac",
+      "status" : "failed",
+      "statusDetails" : "Element should hidden {.row:nth-child(1) .col-md-4:nth-child(1)}\nElement: '<div class=\"col-md-4\">Автомобильная лампа SOLAR LED S25 BA15S 1SMD + Lens 12В, white (LS239)\nНазначение: вспомогательное освещение| Вид лампы: светодиодная (LED)| Место установки: габаритные огни, стоп-сигнал, задний ход, противотуманные задние фонари| Цоколь: BA15s| Напряжение: 12В\nЦена: 162.11 грн.\nДобавить в корзину</div>'",
+      "time" : {
+        "start" : 1518915462607,
+        "stop" : 1518915462607,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "2510fe0f679549d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518915183110,
+        "stop" : 1518915183110,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1bceee7425da9d93",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518915007092,
+        "stop" : 1518915007092,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1968a8e5f99f8685",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518914919089,
+        "stop" : 1518914919089,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a62571b112d46a7d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518914415854,
+        "stop" : 1518914415854,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f617b942935e9def",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518913902379,
+        "stop" : 1518913902379,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "eabcef284059831",
+      "status" : "failed",
+      "statusDetails" : "Element should be exact text '' {.product_title[0]}\nElement: '<p class=\"product_title\">Автомобильная лампа SOLAR LED S25 BA15S 1SMD + Lens 12В, white (LS239)</p>'",
+      "time" : {
+        "start" : 1518913717180,
+        "stop" : 1518913717181,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "df3680576ede77a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518913039775,
+        "stop" : 1518913039775,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e1edf7cfc056b943",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518912119608,
+        "stop" : 1518912119609,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "f1f8512882948123",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518911831120,
+        "stop" : 1518911831120,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "336ee199bdae9758",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518911675539,
+        "stop" : 1518911675539,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c3e1effa3cf08b7c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518911030902,
+        "stop" : 1518911030903,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "b6ad44ed7658b094",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518910659566,
+        "stop" : 1518910659566,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "37ffc8400ffda3af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518910310580,
+        "stop" : 1518910310580,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9aee616ac4f11ab3.json",
+  "statusDetailsSafe" : {
+    "flaky" : true
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,122 @@
+{
+  "uid" : "f00c59e942ee9f69",
+  "name" : "shouldGetWeatherByCity",
+  "fullName" : "ua.com.stolkacha.api.WeatherApiTest.shouldGetWeatherByCity",
+  "historyId" : "78ac91053ca19e8cdba66ef412e75830",
+  "time" : {
+    "start" : 1519090884995,
+    "stop" : 1519090885119,
+    "duration" : 124
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : true
+  },
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Get weather by city name : Kyiv",
+      "time" : {
+        "start" : 1519090884995,
+        "stop" : 1519090885118,
+        "duration" : 123
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "city",
+        "value" : "Kyiv"
+      }, {
+        "name" : "type",
+        "value" : "class ua.com.api.model.WeatherResponse"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "ua.com.stolkacha.api"
+  }, {
+    "name" : "testClass",
+    "value" : "ua.com.stolkacha.api.WeatherApiTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "shouldGetWeatherByCity"
+  }, {
+    "name" : "suite",
+    "value" : "ua.com.stolkacha.api.WeatherApiTest"
+  }, {
+    "name" : "host",
+    "value" : "serhii-HP-ProBook-4540s"
+  }, {
+    "name" : "thread",
+    "value" : "20225@serhii-HP-ProBook-4540s.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a4efb27a0be600eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1519090197334,
+        "stop" : 1519090197480,
+        "duration" : 146
+      }
+    }, {
+      "uid" : "9bcc09285105635a",
+      "status" : "broken",
+      "statusDetails" : "org.apache.commons.lang3.reflect.FieldUtils.getFieldsListWithAnnotation(Ljava/lang/Class;Ljava/lang/Class;)Ljava/util/List;",
+      "time" : {
+        "start" : 1519089998547,
+        "stop" : 1519089998548,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "b21c0d98c1c62d73",
+      "status" : "broken",
+      "statusDetails" : "org.apache.commons.lang3.reflect.FieldUtils.getFieldsListWithAnnotation(Ljava/lang/Class;Ljava/lang/Class;)Ljava/util/List;",
+      "time" : {
+        "start" : 1519089664284,
+        "stop" : 1519089664285,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "39f9eddebd6f1d56",
+      "status" : "broken",
+      "statusDetails" : "org.apache.commons.lang3.reflect.FieldUtils.getFieldsListWithAnnotation(Ljava/lang/Class;Ljava/lang/Class;)Ljava/util/List;",
+      "time" : {
+        "start" : 1519089237705,
+        "stop" : 1519089237706,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f00c59e942ee9f69.json",
+  "statusDetailsSafe" : {
+    "flaky" : true
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "parameterValues" : [ ]
+}

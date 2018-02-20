@@ -1,0 +1,53 @@
+{
+  "uid" : "f36c7c6981a6a919",
+  "name" : "When user select Brevia filter item",
+  "fullName" : "| Brevia |.When user select Brevia filter item",
+  "historyId" : "4fc9608f34c8dbba882046f08a1a1445",
+  "time" : {
+    "start" : 1518911671535,
+    "stop" : 1518911671536,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "| Brevia |"
+  }, {
+    "name" : "testMethod",
+    "value" : "When user select Brevia filter item"
+  }, {
+    "name" : "suite",
+    "value" : "| Brevia |"
+  }, {
+    "name" : "host",
+    "value" : "serhii-HP-ProBook-4540s"
+  }, {
+    "name" : "thread",
+    "value" : "4702@serhii-HP-ProBook-4540s.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "extra" : {
+    "tags" : [ ]
+  },
+  "source" : "f36c7c6981a6a919.json",
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "parameterValues" : [ ]
+}

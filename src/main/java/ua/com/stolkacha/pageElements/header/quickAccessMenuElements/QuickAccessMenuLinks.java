@@ -1,7 +1,7 @@
 package ua.com.stolkacha.pageElements.header.quickAccessMenuElements;
 
 import com.codeborne.selenide.SelenideElement;
-import ua.com.stolkacha.pages.LoginPage;
+import ua.com.stolkacha.pageObjects.LoginPage;
 
 public class QuickAccessMenuLinks {
 

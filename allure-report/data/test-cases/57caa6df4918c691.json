@@ -1,0 +1,55 @@
+{
+  "uid" : "57caa6df4918c691",
+  "name" : "Then all product titles correspond to the selected manufacturer",
+  "fullName" : "| Solar |.Then all product titles correspond to the selected manufacturer",
+  "historyId" : "4909c012c93dcb70ad15e53b866d44c2",
+  "time" : {
+    "start" : 1518913717186,
+    "stop" : 1518913717186,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusDetails" : {
+    "message" : "Test ignored (without reason)!",
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "| Solar |"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then all product titles correspond to the selected manufacturer"
+  }, {
+    "name" : "suite",
+    "value" : "| Solar |"
+  }, {
+    "name" : "host",
+    "value" : "serhii-HP-ProBook-4540s"
+  }, {
+    "name" : "thread",
+    "value" : "7506@serhii-HP-ProBook-4540s.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "extra" : {
+    "tags" : [ ]
+  },
+  "source" : "57caa6df4918c691.json",
+  "statusDetailsSafe" : {
+    "message" : "Test ignored (without reason)!",
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : true
+  },
+  "parameterValues" : [ ]
+}
